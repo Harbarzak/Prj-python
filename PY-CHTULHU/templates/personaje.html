@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='/static/css/estilo.css') }}">
+    <title>Información del Personaje</title>
+</head>
+<body>
+    <h1>{{ npc['Nombre'] }}</h1>
+    <p><strong>Profesión:</strong> {{ npc['Profesión'] }}</p>
+    <p><strong>Edad:</strong> {{ npc['Edad'] }}</p>
+    <p><strong>Rasgos:</strong> {{ npc['Rasgos'] }}</p>
+    <p><strong>Descripción:</strong> {{ npc['Descripción'] }}</p>
+    <p><strong>Secreto:</strong> {{ npc['Secreto'] }}</p>
+    <p><strong>Motivación:</strong> {{ npc['Motivación'] }}</p>
+</body>
+</html>

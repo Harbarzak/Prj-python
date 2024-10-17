@@ -1,0 +1,127 @@
+Nombre,Profesión,Edad,Rasgos,Descripción,Secreto,Motivación
+"""Ashcan"" Pete",Vendedor de Periódicos,12,Astuto,Callejero,Conoce los secretos de la ciudad y se gana la vida con información,Ayudar a su familia a salir de la pobreza.
+Abigail Foreman,Médium,60,Espiritual,Bondadosa,Ayuda a las almas perdidas a encontrar el descanso,Liberar a un espíritu atrapado por una entidad maligna.
+Abraham Lincoln,Presidente,56,Político,Abolicionista,Lidera la Unión durante la Guerra Civil y firma la Proclamación de Emancipación,Ganar la Guerra Civil y abolir la esclavitud en Estados Unidos.
+Agnes Baker,Ama de Llaves,58,Observadora,Discreta,Conoce los secretos de la casa donde trabaja y de sus habitantes,Proteger a la familia para la que trabaja.
+Alice Derleth,Bibliotecaria,35,Curiosa,Inteligente,Descubre un libro antiguo que contiene un ritual peligroso,Descifrar el ritual y evitar que se lleve a cabo.
+Amanda Sharpe,Profesora Universitaria,35,Inteligente,Dedicada,Investiga un antiguo artefacto que parece tener poderes sobrenaturales,Desentrañar los misterios del artefacto.
+Andrew Carnegie,Industrial,66,Filántropo,Magnate del acero,Acumula una gran fortuna en la industria del acero,Usar su fortuna para financiar bibliotecas  universidades y otras instituciones públicas.
+Andrew Ryan,Empresario,65,Visionario,Despiadado,Construyó una ciudad submarina utópica que esconde un oscuro secreto,Mantener el control de su ciudad y su legado.
+Asenath Waite,Ocultista,28,Manipuladora,Poderosa,Posee conocimientos de magia negra y busca la inmortalidad,Alcanzar la vida eterna a cualquier precio.
+Beatrice Dubois,Aristócrata,30,Elegante,Fría,Su familia oculta un legado oscuro relacionado con un culto,Romper la conexión familiar con el culto.
+Beatrice Sharpe,Estudiante,20,Rebelde,Inteligente,Se ve envuelta en un misterio que involucra a su universidad,Descubrir la verdad detrás del misterio.
+Bob Jenkins,Bibliotecario,26,Tímido,Inteligente,Descubre un libro antiguo que habla de rituales prohibidos,Resistir la tentación de usar el conocimiento del libro.
+Bram Stoker,Escritor,54,Imaginativo,Gótico,Escribe sobre vampiros," horror y la lucha entre el bien y el mal,  Investigar leyendas de vampiros en Transilvania para su próxima novela."
+Calliope Marsh,Artista,22,Soñadora,Introvertida,Sus pinturas parecen predecir eventos futuros y desastres,Comprender el significado de sus visiones y prevenir tragedias.
+Carolyn Fern,Artista,30,Creativa,Melancólica,Sus pinturas representan paisajes oníricos y criaturas extrañas,Descubrir el significado de sus visiones artísticas.
+Charles Dexter Ward,Estudiante,21,Curioso,Impulsivo,Investiga la historia de su familia y descubre un oscuro secreto,Liberarse de la influencia maligna de su ancestro.
+Clara Barton,Enfermera,40,Humanitaria,Fundadora de la Cruz Roja Americana,Cuida a los heridos durante la Guerra Civil,Continuar brindando atención médica a los soldados heridos y establecer la Cruz Roja Americana.
+Daisy Walker,Periodista,28,Curiosa,Tenaz,Presenció un ritual extraño y ahora es perseguida por un culto,Exponer la verdad sobre el culto.
+Darrell Simmons,Policía,50,Honesto,Valiente,Sospecha de la existencia de fuerzas oscuras en la ciudad,Proteger a la ciudad de las fuerzas sobrenaturales.
+Dorothea Dix,Reformista,59,Defensora de los enfermos mentales,Trabaja para mejorar las condiciones de los enfermos mentales,Continuar abogando por un mejor tratamiento para los enfermos mentales.,
+Dr. Abigail Wright,Antropóloga,38,Curiosa,Aventurera,Estudia culturas remotas y sus rituales,Desentrañar el misterio de una tribu desaparecida en la selva amazónica.
+Dr. Emily Brightman,Psicóloga,38,Inteligente,Compasiva,Trata a pacientes con traumas relacionados con lo sobrenatural,Ayudar a sus pacientes a superar sus miedos y traumas.
+Dr. Evelyn Pierce,Psiquiatra,35,Compasiva,Inteligente,Trata a pacientes con traumas y experiencias sobrenaturales,Ayudar a un paciente a superar una posesión demoníaca.
+Dr. Francis Morgan,Arqueólogo,45,Aventurero,Excéntrico,Descubre una tumba antigua que libera una maldición,Revertir la maldición y salvar a sus colegas.
+Dr. Henry Armitage,Bibliotecario Jefe,75,Erudito,Sabio,Conoce la existencia de los Mitos y busca proteger a la humanidad,Detener el despertar de un Primigenio.
+Dr. Vincent Crow,Científico,35,Brillante,Obsesionado,Experimenta con tecnología prohibida para crear vida artificial,Completar su creación sin importar las consecuencias.
+Edgar Allan Poe,Escritor,40,Macabro,Torturado,Sus escritos reflejan una profunda comprensión del lado oscuro del ser humano,Encontrar la belleza en la oscuridad y explorar los límites de la mente.
+Edward Derby,Profesor de Historia,42,Estudioso,Despistado,Investiga una secta que adoraba a dioses oscuros en la antigüedad,Impedir el resurgimiento de la secta.
+Edward Gavigan,Detective,52,Tenaz,Escéptico,Investiga una serie de asesinatos rituales,Atrapar al asesino antes de que complete su ritual.
+Elias Bouchard,Librero Anticuario,62,Estudioso,Reservado,Posee un libro maldito que lo está consumiendo lentamente,Proteger al mundo del libro maldito.
+Eliza Blackwood,Bruja,28,Poderosa,Vengativa,Practica magia oscura y busca venganza contra quienes la agraviaron,Destruir a sus enemigos y reclamar su lugar como líder de un aquelarre.
+Elizabeth Cady Stanton,Sufragista,57,Activista,Escritora,Lucha por los derechos de las mujeres,Continuar luchando por los derechos de las mujeres y escribir sobre la igualdad de género.
+Elizabeth Peabody,Educadora,75,Progresista,Filántropa,Fundadora del primer jardín de infantes en Estados Unidos,Promover la educación temprana y el desarrollo infantil.
+Emily Carter,Doctora,38,Compasiva,Valiente,Trabaja en un hospital psiquiátrico y trata casos de posesión demoníaca,Encontrar una cura para la posesión y ayudar a sus pacientes.
+Emily Dickinson,Poeta,55,Introspectiva,Misteriosa,Explora temas de muerte,inmortalidad y la naturaleza en sus poemas  Escribir poemas sobre la vida  la muerte y la naturaleza.
+Erich Zann,Músico,60,Misterioso,Talentoso,Toca una música inquietante que atrae a entidades de otras dimensiones,Controlar a las entidades a través de su música.
+Evelyn Waite,Artista callejera,24,Creativa,Rebelde,Pinta murales con simbología arcana sin comprender su significado,Descubrir el origen de su inspiración artística.
+Father Mateo,Sacerdote,50,Devoto,Exorcista,Lucha contra las fuerzas demoníacas que amenazan a la ciudad,Realizar un exorcismo y salvar a una persona poseída.
+Father Michael O'Malley,Sacerdote,65,Devoto,Exorcista,Realiza exorcismos y lucha contra las fuerzas demoníacas,Enfrentarse a un poderoso demonio que amenaza a la ciudad.
+Finn Edwards,Anticuario,38,Ambicioso,Avaro,Busca artefactos antiguos para venderlos al mejor postor,Enriquecerse a costa de lo que sea.
+Frederick Douglass,Abolicionista,77,Activista,Escritor,Lucha por la abolición de la esclavitud y los derechos civiles,Escribir su autobiografía y dar conferencias sobre la esclavitud.
+Frederick Law Olmsted,Arquitecto paisajista,41,Diseñador del Central Park,Diseña parques y espacios públicos,Diseñar más parques y espacios verdes en las ciudades americanas.,
+Gloria Goldberg,Médium,48,Espiritual,Compasiva,Puede comunicarse con los espíritus y tiene visiones del futuro,Ayudar a los espíritus a encontrar la paz.
+Gustaf Johansen,Marinero,42,Superviviente,Traumatizado,Fue el único sobreviviente del encuentro con Cthulhu,Alertar al mundo sobre la amenaza de los Primigenios.
+H.G. Wells,Escritor,53,Visionario,Socialista,Explora temas de ciencia ficción," viajes en el tiempo y crítica social,  Escribir una novela sobre una invasión marciana a la Tierra."
+H.P. Lovecraft,Escritor,46,Solitario,Visionario,Sus relatos de horror cósmico revelan la insignificancia humana ante el universo,Compartir su visión del cosmos y la insignificancia de la humanidad.
+Harlan Fiske Stone,Detective,50,Tenaz,Escéptico,Investiga casos inexplicables que desafían la lógica,Encontrar explicaciones racionales a lo inexplicable.
+Harriet Beecher Stowe,Escritora,85,Abolicionista,Reformista,Escribe La cabaña del tío Tom," una novela que expone los horrores de la esclavitud,  Continuar escribiendo novelas y artículos que aboguen por la abolición de la esclavitud."
+Harriet Tubman,Abolicionista,91,Conductora del ferrocarril subterráneo,Espía,Ayuda a esclavos a escapar a la libertad,Seguir guiando a esclavos a la libertad a través del ferrocarril subterráneo.
+Harvey Walters,Profesor de Miskatonic,58,Estudioso,Excéntrico,Experto en lenguas antiguas y culturas olvidadas," Descubre un texto que revela la ubicación de una ciudad perdida,  Encontrar la ciudad perdida y desentrañar sus secretos."
+Henry David Thoreau,Escritor,44,Transcendentalista,Naturalista,Vive en la naturaleza y escribe sobre la simplicidad y la autosuficiencia,Vivir una vida simple y escribir sobre sus experiencias en la naturaleza.
+Herbert West,Científico,30,Brillante,Obsesionado,Experimenta con la reanimación de cadáveres,Conquistar la muerte y alcanzar la gloria científica.
+Herman Melville,Escritor,42,Aventurero,Filósofo,Escribe sobre el mar," la naturaleza humana y la lucha contra lo desconocido,  Completar su novela épica sobre la obsesión de un capitán con una ballena blanca."
+Hypatia Masters,Profesora de física,35,Brillante,Ambiciosa,Investiga la posibilidad de viajar a otras dimensiones,Abrir un portal a otra dimensión y explorar lo desconocido.
+Irene Adler,Ladrona profesional,32,Astuta,Audaz,Busca robar un objeto místico con poderes peligrosos,Usar el objeto para su beneficio personal.
+Isaiah Freeman,Músico,32,Talentoso,Melancólico,Su música evoca emociones profundas y conecta con el mundo espiritual,Componer una obra maestra que trascienda los límites de la realidad.
+Jack London,Escritor,40,Aventurero,Socialista,Escribe sobre la supervivencia," la naturaleza y la lucha de clases,  Viajar al Klondike en busca de oro y aventuras."
+Jack Walters,Marinero,40,Supersticioso,Temeroso,Sobrevivió al ataque de una criatura marina y ahora teme al océano,Superar su miedo y volver al mar.
+Jacqueline Fine,Médium,40,Espiritual,Compasiva,Puede comunicarse con los muertos y ayudarlos a encontrar la paz,Resolver un asesinato con la ayuda de un espíritu.
+James Fenimore Cooper,Escritor,68,Aventurero,Patriótico,Escribe sobre la frontera americana,los nativos americanos y la naturaleza  Escribir una novela sobre un cazador de pieles y su relación con un jefe indígena.
+Jefferson Davis,Presidente,57,Político,Secesionista,Presidente de los Estados Confederados de América,Liderar la Confederación a la independencia.
+Jenny Barnes,Dilettante,25,Sociable,Carismática,Es la heredera de una fortuna y busca emociones fuertes,Descubrir los secretos de su familia.
+Jenny Leclerc,Ladrona,25,Ágil,Astuta,Roba artefactos valiosos de coleccionistas adinerados,Robar un artefacto maldito sin despertar su poder.
+Jeremiah Blackwell,Sacerdote,62,Devoto,Conflictivo,Lucha contra su fe debido a los horrores que presencia,Mantener su fe y encontrar respuestas a sus dudas.
+Jim Culver,Granjero,45,Supersticioso,Temeroso,Su granja está ubicada cerca de un lugar donde ocurren sucesos extraños,Proteger a su familia de las fuerzas que acechan cerca de su granja.
+John Brown,Abolicionista,59,Radical,Revolucionario,Lidera una incursión armada en Harpers Ferry para iniciar una revuelta de esclavos,Continuar luchando contra la esclavitud con todos los medios necesarios.
+Jonathan Van der Meer,Anticuario,55,Conocedor,Codicioso,Busca y vende artefactos raros y ocultos,Encontrar un artefacto legendario que se rumorea otorga la inmortalidad.
+Keziah Mason,Bruja,Desconocida,Poderosa,Vengativa,Busca venganza contra aquellos que la condenaron por brujería,Destruir a sus enemigos y recuperar su poder.
+Lavinia Whateley,Bibliotecaria,25,Tímida,Inteligente,Descubre la verdad sobre su herencia familiar y su conexión con los Mitos,Aceptar su destino o luchar contra él.
+Louisa May Alcott,Escritora,55,Independiente,Feminista,Escribe sobre la vida de las mujeres y su búsqueda de identidad y propósito,Inspirar a otras mujeres a través de sus historias y personajes fuertes.
+Lucretia Mott,Abolicionista,68,Activista,Feminista,Lucha por la abolición de la esclavitud y los derechos de las mujeres,Continuar luchando por la justicia social y la igualdad.
+Luke Robinson,Detective,45,Cínico,Experimentado,Ha visto demasiado horror en su trabajo y lucha contra el cinismo,Resolver un caso que involucra rituales oscuros.
+Margaret Fuller,Crítica literaria,40,Feminista,Transcendentalista,Aboga por los derechos de las mujeres y la educación,Escribir un libro sobre la importancia de la educación para las mujeres.
+Marie Lambeau,Doctora,32,Compasiva,Dedicada,Trabaja en un hospital psiquiátrico y trata a pacientes con traumas inexplicables,Encontrar la cura para la locura de sus pacientes.
+Mark Twain,Escritor,74,Satírico,Observador,Comenta sobre la sociedad estadounidense y la naturaleza humana con humor e ironía,Escribir una novela que exponga la hipocresía y la corrupción de la sociedad.
+Mary Coldwell,Médium,45,Espiritual,Compasiva,Ayuda a los fantasmas a encontrar la paz y resolver asuntos pendientes,Liberar a un espíritu atrapado en un lugar embrujado.
+Mary Shelley,Escritora,28,Imaginativa,Rebelde,Su novela Frankenstein explora los límites de la ciencia y la ética,Cuestionar la moralidad del progreso científico y sus consecuencias.
+Mary Shelley,Escritora,28,Romántica,Gótica,Explora los límites de la ciencia y la ética en su obra Frankenstein,Escribir una novela sobre una criatura creada por un científico que se rebela contra su creador.
+Michael McGlen,Investigador Privado,42,Cínico,Observador,Arrastra un pasado oscuro que lo atormenta,Encontrar redención por sus errores pasados.
+Minh Thi Phan,Investigadora Privada,35,Astuta,Observadora,Tiene un pasado misterioso y habilidades únicas para resolver casos,Desentrañar un misterio personal que la atormenta.
+Monterey Jack,Vagabundo,Desconocida,Supersticioso,Solitario,Es perseguido por visiones de criaturas sobrenaturales,Escapar de las criaturas que lo atormentan.
+Nathaniel Hawthorne,Escritor,46,Observador,Introspectivo,Explora temas de culpa," pecado y redención en sus obras,  Encontrar la inspiración para su próxima novela gótica."
+Nathaniel Hawthorne,Escritor,46,Puritano,Simbólico,Explora temas de pecado,culpa y redención en sus obras  Escribir una novela sobre una comunidad puritana que oculta un oscuro secreto.
+Nodens,Dios anciano,Desconocido,Benevolente,Sabio,Ayuda a los humanos a combatir las fuerzas del mal,Mantener el equilibrio entre el orden y el caos en el universo.
+Norman Withers,Reportero,28,Idealista,Tenaz,Busca exponer la verdad sobre la corrupción y las conspiraciones,Destapar una conspiración que involucra a la élite de Arkham.
+Nyarlathotep,Dios exterior,Desconocido,Caótico,Manipulador,Se deleita en sembrar el caos y la destrucción entre los humanos,Llevar a la humanidad a la locura y la aniquilación.
+Obed Marsh,Capitán de barco,55,Supersticioso,Ambicioso,Hizo un pacto con criaturas marinas para obtener riquezas,Mantener su pacto secreto y evitar las consecuencias.
+Omar Shakti,Comerciante,55,Astuto,Misterioso,Vende objetos exóticos de dudosa procedencia,Obtener riquezas y poder a través del comercio de artefactos.
+Oscar Wilde,Escritor,46,Ingenioso,Rebelde,Desafía las normas sociales con su estilo de vida y sus obras,Escribir una obra de teatro que critique la moralidad victoriana.
+"Pete ""Ashcan"" Peters",Vendedor de Periódicos,12,Astuto,Callejero,Conoce los secretos de la ciudad y se gana la vida con información,Ayudar a su familia a salir de la pobreza.
+Peter Clover,Escritor,40,Imaginativo,Torturado,Escribe historias de terror basadas en sus propias experiencias con lo sobrenatural,Superar su trauma y encontrar la paz a través de la escritura.
+Peter Warren,Anticuario,52,Codicioso,Ambicioso,Busca artefactos relacionados con los Mitos para venderlos a coleccionistas,Obtener ganancias sin importar el peligro.
+Preston Fairmont,Millonario,70,Excéntrico,Solitario,Financia expediciones a lugares remotos en busca de artefactos míticos,Encontrar la fuente de la juventud eterna.
+Professor Warren Rice,Arqueólogo,55,Aventurero,Estudioso,Lidera una expedición a una tumba antigua en busca de un artefacto,Encontrar el artefacto antes de que caiga en las manos equivocadas.
+Ralph Waldo Emerson,Ensayista,78,Transcendentalista,Filósofo,Escribe sobre el individualismo,la naturaleza y la superación personal  Dar conferencias sobre el trascendentalismo y la importancia del individuo.
+Randolph Carter,Soñador,35,Imaginativo,Melancólico,Busca una ciudad onírica que aparece en sus sueños,Encontrar la ciudad de sus sueños y descubrir su significado.
+Rebecca Sherringford,Herbolaria,70,Sabia,Misteriosa,Conoce los secretos de las plantas y sus propiedades mágicas,Crear una cura para una enfermedad sobrenatural.
+Richard Upton Pickman,Artista,40,Macabro,Solitario,Pinta escenas grotescas inspiradas en criaturas de las profundidades,Encontrar la belleza en el horror.
+Robert Blake,Poeta,30,Sensible,Melancólico,Sus poemas hablan del dolor," la pérdida y el miedo a lo desconocido,  Encontrar consuelo en la expresión artística y la belleza del lenguaje."
+Robert E. Lee,General,58,Estratega militar,Héroe de guerra,Lidera el ejército confederado durante la Guerra Civil,Defender la Confederación y su forma de vida.
+Robert Louis Stevenson,Escritor,44,Aventurero,Romántico,Escribe sobre piratas," tesoros y la dualidad del hombre,  Encontrar la inspiración para su próxima novela de aventuras."
+Robert Olmstead,Periodista,35,Valiente,Tenaz,Investiga la desaparición de personas en un pueblo costero,Descubrir la verdad detrás de las desapariciones.
+Samuel West,Detective,45,Tenaz,Escéptico,Investiga casos extraños y paranormales con una mente lógica,Resolver un caso que desafía su visión racional del mundo.
+Sarah Hawkins,Bibliotecaria,29,Curiosa,Inteligente,Descubre un código secreto en un libro antiguo,Descifrar el código y descubrir sus secretos.
+Sefina Rousseau,Artista,29,Creativa,Melancólica,Tiene sueños premonitorios y pinta escenas de horrores cósmicos,Comprender el significado de sus sueños.
+Silas Marsh,Pescador,58,Sabio,Recluso,Conoce leyendas del mar y criaturas que habitan las profundidades,Proteger a su pueblo de las criaturas marinas.
+Simon Carter,Detective privado,48,Cínico,Observador,Investiga casos relacionados con lo sobrenatural a regañadientes,Mantener el orden y la justicia en un mundo caótico.
+Sister Agatha,Monja,70,Piadosa,Misteriosa,Oculta un pasado oscuro y conocimientos de lo oculto,Proteger a su convento de una entidad maligna que acecha en las sombras.
+Sister Mary,Monja,60,Piadosa,Compasiva,Dirige un orfanato y protege a los niños de las fuerzas oscuras,Proteger a los niños del orfanato de una amenaza sobrenatural.
+Sojourner Truth,Abolicionista,86,Activista,Feminista,Lucha por la abolición de la esclavitud y los derechos de las mujeres,Dar discursos sobre la esclavitud y los derechos de las mujeres.
+Stonewall Jackson,General,39,Estratega militar,Héroe de guerra,Lidera el ejército confederado durante la Guerra Civil,Ganar batallas clave para la Confederación.
+Susan B. Anthony,Sufragista,52,Activista,Feminista,Lucha por el derecho al voto de las mujeres,Continuar luchando por el sufragio femenino.
+Thomas Malone,Escritor,38,Creativo,Torturado,Sufre de visiones aterradoras que usa como inspiración para sus novelas,Encontrar la paz mental y escapar de sus visiones.
+Ulysses S. Grant,General,43,Estratega militar,Héroe de guerra,Lidera el ejército de la Unión a la victoria durante la Guerra Civil,Ganar la Guerra Civil y restaurar la Unión.
+Vivian Lopez,Artista,28,Creativa,Visionaria,Sus esculturas representan criaturas de pesadilla y paisajes oníricos,Descubrir el significado de sus visiones artísticas.
+Walt Whitman,Poeta,72,Humanista,Transcendentalista,Celebra la vida,la naturaleza y la democracia en sus poemas  Escribir un poema épico sobre la experiencia americana y la condición humana.
+Walter Gilman,Estudiante de Matemáticas,21,Inteligente,Introvertido,Obsesionado con geometrías no euclidianas que le provocan alucinaciones,Comprender la naturaleza de sus visiones.
+Washington Irving,Escritor,76,Romántico,Satírico,Escribe sobre leyendas,fantasmas y la historia estadounidense  Recolectar historias de fantasmas y leyendas locales para su próximo libro.
+Wilbur Whateley,Granjero,17,Extraño,Solitario,Es el resultado de la unión entre un humano y una entidad extraterrestre,Encontrar su lugar en el mundo y comprender su naturaleza.
+William Dyer,Artista,42,Torturado,Visionario,Pinta escenas grotescas y perturbadoras inspiradas por sus pesadillas,Encontrar la paz interior y liberarse de sus visiones atormentadoras.
+William Lloyd Garrison,Abolicionista,78,Activista,Editor,Funda el periódico The Liberator y lucha por la abolición inmediata de la esclavitud,Continuar publicando The Liberator y abogando por la abolición de la esclavitud.
+William Yorick,Anticuario,48,Codicioso,Conocedor,Vende artefactos antiguos y objetos ocultos,Vender un artefacto maldito a un coleccionista desprevenido.
+Wilson Richards,Político,55,Corrupto,Manipulador,Tiene tratos con una sociedad secreta que busca el poder,Obtener más poder e influencia.
+Xiuhcoatl Martinez,Arqueóloga,32,Aventurera,Apasionada,Investiga ruinas precolombinas y descubre secretos olvidados,Proteger los secretos de las culturas antiguas.
+Zebulon Whateley,Granjero,78,Astuto,Solitario,Oculta un ser de origen extraterrestre en su granja," Proteger a su ""hijo"" del mundo exterior."
+Zoey Samaras,Camarera,22,Atrevida,Independiente,Sueña con dejar su vida monótona y vivir aventuras,Escapar de su vida aburrida y encontrar emoción.

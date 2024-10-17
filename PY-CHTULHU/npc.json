@@ -1,0 +1,1109 @@
+[
+  {
+    "Nombre": "Ashcan Pete",
+    "Profesión": "Vendedor de Periódicos",
+    "Edad": 12,
+    "Rasgos": "Astuto, Callejero",
+    "Descripción": "Conoce los secretos de la ciudad y se gana la vida con información",
+    "Secreto": null,
+    "Motivación": "Ayudar a su familia a salir de la pobreza"
+  },
+  {
+    "Nombre": "Abigail Foreman",
+    "Profesión": "Médium",
+    "Edad": 60,
+    "Rasgos": "Espiritual, Bondadosa",
+    "Descripción": "Ayuda a las almas perdidas a encontrar el descanso",
+    "Secreto": null,
+    "Motivación": "Liberar a un espíritu atrapado por una entidad maligna"
+  },
+  {
+    "Nombre": "Abraham Lincoln",
+    "Profesión": "Presidente",
+    "Edad": 56,
+    "Rasgos": "Político, Abolicionista",
+    "Descripción": "Lidera la Unión durante la Guerra Civil y firma la Proclamación de Emancipación",
+    "Secreto": null,
+    "Motivación": "Ganar la Guerra Civil y abolir la esclavitud en Estados Unidos"
+  },
+  {
+    "Nombre": "Agnes Baker",
+    "Profesión": "Ama de Llaves",
+    "Edad": 58,
+    "Rasgos": "Observadora, Discreta",
+    "Descripción": "Conoce los secretos de la casa donde trabaja y de sus habitantes",
+    "Secreto": null,
+    "Motivación": "Proteger a la familia para la que trabaja"
+  },
+  {
+    "Nombre": "Alice Derleth",
+    "Profesión": "Bibliotecaria",
+    "Edad": 35,
+    "Rasgos": "Curiosa, Inteligente",
+    "Descripción": "Descubre un libro antiguo que contiene un ritual peligroso",
+    "Secreto": null,
+    "Motivación": "Descifrar el ritual y evitar que se lleve a cabo"
+  },
+  {
+    "Nombre": "Amanda Sharpe",
+    "Profesión": "Profesora Universitaria",
+    "Edad": 35,
+    "Rasgos": "Inteligente, Dedicada",
+    "Descripción": "Investiga un antiguo artefacto que parece tener poderes sobrenaturales",
+    "Secreto": null,
+    "Motivación": "Desentrañar los misterios del artefacto"
+  },
+  {
+    "Nombre": "Andrew Carnegie",
+    "Profesión": "Industrial",
+    "Edad": 66,
+    "Rasgos": "Filántropo, Magnate del acero",
+    "Descripción": "Acumula una gran fortuna en la industria del acero",
+    "Secreto": null,
+    "Motivación": "Usar su fortuna para financiar bibliotecas, universidades y otras instituciones públicas"
+  },
+  {
+    "Nombre": "Andrew Ryan",
+    "Profesión": "Empresario",
+    "Edad": 65,
+    "Rasgos": "Visionario, Despiadado",
+    "Descripción": "Construyó una ciudad submarina utópica que esconde un oscuro secreto",
+    "Secreto": null,
+    "Motivación": "Mantener el control de su ciudad y su legado"
+  },
+  {
+    "Nombre": "Asenath Waite",
+    "Profesión": "Ocultista",
+    "Edad": 28,
+    "Rasgos": "Manipuladora, Poderosa",
+    "Descripción": "Posee conocimientos de magia negra y busca la inmortalidad",
+    "Secreto": null,
+    "Motivación": "Alcanzar la vida eterna a cualquier precio"
+  },
+  {
+    "Nombre": "Beatrice Dubois",
+    "Profesión": "Aristócrata",
+    "Edad": 30,
+    "Rasgos": "Elegante, Fría",
+    "Descripción": "Su familia oculta un legado oscuro relacionado con un culto",
+    "Secreto": null,
+    "Motivación": "Romper la conexión familiar con el culto"
+  },
+  {
+    "Nombre": "Beatrice Sharpe",
+    "Profesión": "Estudiante",
+    "Edad": 20,
+    "Rasgos": "Rebelde, Inteligente",
+    "Descripción": "Se ve envuelta en un misterio que involucra a su universidad",
+    "Secreto": null,
+    "Motivación": "Descubrir la verdad detrás del misterio"
+  },
+  {
+    "Nombre": "Bob Jenkins",
+    "Profesión": "Bibliotecario",
+    "Edad": 26,
+    "Rasgos": "Tímido, Inteligente",
+    "Descripción": "Descubre un libro antiguo que habla de rituales prohibidos",
+    "Secreto": null,
+    "Motivación": "Resistir la tentación de usar el conocimiento del libro"
+  }, 
+  {
+    "Nombre": "Bram Stoker",
+    "Profesión": "Escritor",
+    "Edad": 54,
+    "Rasgos": "Imaginativo, Gótico",
+    "Descripción": "Escribe sobre vampiros, horror y la lucha entre el bien y el mal", 
+    "Secreto": null,
+    "Motivación": "Investigar leyendas de vampiros en Transilvania para su próxima novela"
+  },
+  {
+    "Nombre": "Calliope Marsh",
+    "Profesión": "Artista",
+    "Edad": 22,
+    "Rasgos": "Soñadora, Introvertida",
+    "Descripción": "Sus pinturas parecen predecir eventos futuros y desastres",
+    "Secreto": null, 
+    "Motivación": "Comprender el significado de sus visiones y prevenir tragedias"
+  },
+  {
+    "Nombre": "Carolyn Fern", 
+    "Profesión": "Artista",
+    "Edad": 30,
+    "Rasgos": "Creativa, Melancólica",
+    "Descripción": "Sus pinturas representan paisajes oníricos y criaturas extrañas",
+    "Secreto": null,
+    "Motivación": "Descubrir el significado de sus visiones artísticas" 
+  },
+  {
+    "Nombre": "Charles Dexter Ward",
+    "Profesión": "Estudiante",
+    "Edad": 21,
+    "Rasgos": "Curioso, Impulsivo", 
+    "Descripción": "Investiga la historia de su familia y descubre un oscuro secreto", 
+    "Secreto": null,
+    "Motivación": "Liberarse de la influencia maligna de su ancestro" 
+  },
+  {
+    "Nombre": "Clara Barton", 
+    "Profesión": "Enfermera", 
+    "Edad": 40, 
+    "Rasgos": "Humanitaria, Fundadora de la Cruz Roja Americana", 
+    "Descripción": "Cuida a los heridos durante la Guerra Civil",
+    "Secreto": null,
+    "Motivación": "Continuar brindando atención médica a los soldados heridos y establecer la Cruz Roja Americana"
+  },
+  {
+    "Nombre": "Daisy Walker", 
+    "Profesión": "Periodista", 
+    "Edad": 28,
+    "Rasgos": "Curiosa, Tenaz", 
+    "Descripción": "Presenció un ritual extraño y ahora es perseguida por un culto", 
+    "Secreto": null,
+    "Motivación": "Exponer la verdad sobre el culto"
+  },
+  {
+    "Nombre": "Darrell Simmons",
+    "Profesión": "Policía", 
+    "Edad": 50,
+    "Rasgos": "Honesto, Valiente", 
+    "Descripción": "Sospecha de la existencia de fuerzas oscuras en la ciudad",
+    "Secreto": null,
+    "Motivación": "Proteger a la ciudad de las fuerzas sobrenaturales"
+  }, 
+  {
+    "Nombre": "Dorothea Dix", 
+    "Profesión": "Reformista", 
+    "Edad": 59,
+    "Rasgos": "Defensora de los enfermos mentales",
+    "Descripción": "Trabaja para mejorar las condiciones de los enfermos mentales",
+    "Secreto": null, 
+    "Motivación": "Continuar abogando por un mejor tratamiento para los enfermos mentales"
+  }
+  {
+    "Nombre": "Dr. Abigail Wright",
+    "Profesión": "Antropóloga",
+    "Edad": 38,
+    "Rasgos": "Curiosa, Aventurera",
+    "Descripción": "Estudia culturas remotas y sus rituales",
+    "Secreto": null,
+    "Motivación": "Desentrañar el misterio de una tribu desaparecida en la selva amazónica" 
+  },
+  {
+    "Nombre": "Dr. Emily Brightman",
+    "Profesión": "Psicóloga",
+    "Edad": 38,
+    "Rasgos": "Inteligente, Compasiva",
+    "Descripción": "Trata a pacientes con traumas relacionados con lo sobrenatural",
+    "Secreto": null,
+    "Motivación": "Ayudar a sus pacientes a superar sus miedos y traumas"
+  },
+  {
+    "Nombre": "Dr. Evelyn Pierce",
+    "Profesión": "Psiquiatra",
+    "Edad": 35,
+    "Rasgos": "Compasiva, Inteligente",
+    "Descripción": "Trata a pacientes con traumas y experiencias sobrenaturales",
+    "Secreto": null,
+    "Motivación": "Ayudar a un paciente a superar una posesión demoníaca"
+  },
+  {
+    "Nombre": "Dr. Francis Morgan", 
+    "Profesión": "Arqueólogo", 
+    "Edad": 45,
+    "Rasgos": "Aventurero, Excéntrico",
+    "Descripción": "Descubre una tumba antigua que libera una maldición",
+    "Secreto": null,
+    "Motivación": "Revertir la maldición y salvar a sus colegas"
+  }, 
+  {
+    "Nombre": "Dr. Henry Armitage",
+    "Profesión": "Bibliotecario Jefe",
+    "Edad": 75,
+    "Rasgos": "Erudito, Sabio",
+    "Descripción": "Conoce la existencia de los Mitos y busca proteger a la humanidad",
+    "Secreto": null,
+    "Motivación": "Detener el despertar de un Primigenio"
+  }, 
+  {
+    "Nombre": "Dr. Vincent Crow", 
+    "Profesión": "Científico",
+    "Edad": 35, 
+    "Rasgos": "Brillante, Obsesionado", 
+    "Descripción": "Experimenta con tecnología prohibida para crear vida artificial", 
+    "Secreto": null, 
+    "Motivación": "Completar su creación sin importar las consecuencias"
+  },
+  {
+    "Nombre": "Edgar Allan Poe", 
+    "Profesión": "Escritor", 
+    "Edad": 40, 
+    "Rasgos": "Macabro, Torturado", 
+    "Descripción": "Sus escritos reflejan una profunda comprensión del lado oscuro del ser humano", 
+    "Secreto": null, 
+    "Motivación": "Encontrar la belleza en la oscuridad y explorar los límites de la mente" 
+  }, 
+  {
+    "Nombre": "Edward Derby", 
+    "Profesión": "Profesor de Historia", 
+    "Edad": 42,
+    "Rasgos": "Estudioso, Despistado", 
+    "Descripción": "Investiga una secta que adoraba a dioses oscuros en la antigüedad",
+    "Secreto": null,
+    "Motivación": "Impedir el resurgimiento de la secta"
+  },
+  {
+    "Nombre": "Edward Gavigan", 
+    "Profesión": "Detective", 
+    "Edad": 52, 
+    "Rasgos": "Tenaz, Escéptico", 
+    "Descripción": "Investiga una serie de asesinatos rituales", 
+    "Secreto": null, 
+    "Motivación": "Atrapar al asesino antes de que complete su ritual"
+  }, 
+  {
+    "Nombre": "Elias Bouchard", 
+    "Profesión": "Librero Anticuario",
+    "Edad": 62,
+    "Rasgos": "Estudioso, Reservado", 
+    "Descripción": "Posee un libro maldito que lo está consumiendo lentamente", 
+    "Secreto": null, 
+    "Motivación": "Proteger al mundo del libro maldito" 
+  },
+  {
+    "Nombre": "Eliza Blackwood",
+    "Profesión": "Bruja", 
+    "Edad": 28, 
+    "Rasgos": "Poderosa, Vengativa", 
+    "Descripción": "Practica magia oscura y busca venganza contra quienes la agraviaron", 
+    "Secreto": null,
+    "Motivación": "Destruir a sus enemigos y reclamar su lugar como líder de un aquelarre" 
+  },
+  {
+    "Nombre": "Elizabeth Cady Stanton", 
+    "Profesión": "Sufragista",
+    "Edad": 57, 
+    "Rasgos": "Activista, Escritora",
+    "Descripción": "Lucha por los derechos de las mujeres",
+    "Secreto": null,
+    "Motivación": "Continuar luchando por los derechos de las mujeres y escribir sobre la igualdad de género"
+  },
+  {
+    "Nombre": "Elizabeth Peabody",
+    "Profesión": "Educadora",
+    "Edad": 75,
+    "Rasgos": "Progresista, Filántropa", 
+    "Descripción": "Fundadora del primer jardín de infantes en Estados Unidos", 
+    "Secreto": null,
+    "Motivación": "Promover la educación temprana y el desarrollo infantil"
+  },
+  {
+    "Nombre": "Emily Carter",
+    "Profesión": "Doctora",
+    "Edad": 38,
+    "Rasgos": "Compasiva, Valiente",
+    "Descripción": "Trabaja en un hospital psiquiátrico y trata casos de posesión demoníaca",
+    "Secreto": null,
+    "Motivación": "Encontrar una cura para la posesión y ayudar a sus pacientes"
+  } 
+  {
+    "Nombre": "Emily Dickinson",
+    "Profesión": "Poeta",
+    "Edad": 55,
+    "Rasgos": "Introspectiva, Misteriosa",
+    "Descripción": "Explora temas de muerte, inmortalidad y la naturaleza en sus poemas",
+    "Secreto": null,
+    "Motivación": "Escribir poemas sobre la vida, la muerte y la naturaleza"
+  },
+  {
+    "Nombre": "Erich Zann",
+    "Profesión": "Músico",
+    "Edad": 60,
+    "Rasgos": "Misterioso, Talentoso",
+    "Descripción": "Toca una música inquietante que atrae a entidades de otras dimensiones",
+    "Secreto": null,
+    "Motivación": "Controlar a las entidades a través de su música"
+  },
+  {
+    "Nombre": "Evelyn Waite",
+    "Profesión": "Artista callejera",
+    "Edad": 24,
+    "Rasgos": "Creativa, Rebelde",
+    "Descripción": "Pinta murales con simbología arcana sin comprender su significado",
+    "Secreto": null,
+    "Motivación": "Descubrir el origen de su inspiración artística" 
+  },
+  {
+    "Nombre": "Father Mateo",
+    "Profesión": "Sacerdote",
+    "Edad": 50,
+    "Rasgos": "Devoto, Exorcista",
+    "Descripción": "Lucha contra las fuerzas demoníacas que amenazan a la ciudad",
+    "Secreto": null,
+    "Motivación": "Realizar un exorcismo y salvar a una persona poseída"
+  },
+  {
+    "Nombre": "Father Michael O'Malley",
+    "Profesión": "Sacerdote",
+    "Edad": 65,
+    "Rasgos": "Devoto, Exorcista",
+    "Descripción": "Realiza exorcismos y lucha contra las fuerzas demoníacas",
+    "Secreto": null, 
+    "Motivación": "Enfrentarse a un poderoso demonio que amenaza a la ciudad"
+  },
+  {
+    "Nombre": "Finn Edwards", 
+    "Profesión": "Anticuario", 
+    "Edad": 38, 
+    "Rasgos": "Ambicioso, Avaro", 
+    "Descripción": "Busca artefactos antiguos para venderlos al mejor postor", 
+    "Secreto": null, 
+    "Motivación": "Enriquecerse a costa de lo que sea" 
+  },
+  {
+    "Nombre": "Frederick Douglass", 
+    "Profesión": "Abolicionista", 
+    "Edad": 77, 
+    "Rasgos": "Activista, Escritor", 
+    "Descripción": "Lucha por la abolición de la esclavitud y los derechos civiles", 
+    "Secreto": null, 
+    "Motivación": "Escribir su autobiografía y dar conferencias sobre la esclavitud" 
+  },
+  {
+    "Nombre": "Frederick Law Olmsted", 
+    "Profesión": "Arquitecto paisajista",
+    "Edad": 41, 
+    "Rasgos": "Diseñador del Central Park",
+    "Descripción": "Diseña parques y espacios públicos", 
+    "Secreto": null,
+    "Motivación": "Diseñar más parques y espacios verdes en las ciudades americanas" 
+  },
+  {
+    "Nombre": "Gloria Goldberg", 
+    "Profesión": "Médium", 
+    "Edad": 48,
+    "Rasgos": "Espiritual, Compasiva", 
+    "Descripción": "Puede comunicarse con los espíritus y tiene visiones del futuro", 
+    "Secreto": null, 
+    "Motivación": "Ayudar a los espíritus a encontrar la paz"
+  },
+  {
+    "Nombre": "Gustaf Johansen", 
+    "Profesión": "Marinero",
+    "Edad": 42, 
+    "Rasgos": "Superviviente, Traumatizado",
+    "Descripción": "Fue el único sobreviviente del encuentro con Cthulhu",
+    "Secreto": null,
+    "Motivación": "Alertar al mundo sobre la amenaza de los Primigenios"
+  }, 
+  {
+    "Nombre": "H.G. Wells",
+    "Profesión": "Escritor", 
+    "Edad": 53, 
+    "Rasgos": "Visionario, Socialista",
+    "Descripción": "Explora temas de ciencia ficción, viajes en el tiempo y crítica social",
+    "Secreto": null, 
+    "Motivación": "Escribir una novela sobre una invasión marciana a la Tierra" 
+  }, 
+  {
+    "Nombre": "H.P. Lovecraft", 
+    "Profesión": "Escritor",
+    "Edad": 46, 
+    "Rasgos": "Solitario, Visionario",
+    "Descripción": "Sus relatos de horror cósmico revelan la insignificancia humana ante el universo", 
+    "Secreto": null, 
+    "Motivación": "Compartir su visión del cosmos y la insignificancia de la humanidad" 
+  }, 
+  {
+    "Nombre": "Harlan Fiske Stone", 
+    "Profesión": "Detective",
+    "Edad": 50, 
+    "Rasgos": "Tenaz, Escéptico", 
+    "Descripción": "Investiga casos inexplicables que desafían la lógica",
+    "Secreto": null, 
+    "Motivación": "Encontrar explicaciones racionales a lo inexplicable" 
+  } 
+  {
+    "Nombre": "Harriet Beecher Stowe",
+    "Profesión": "Escritora",
+    "Edad": 85,
+    "Rasgos": "Abolicionista, Reformista",
+    "Descripción": "Escribe \"La cabaña del tío Tom\", una novela que expone los horrores de la esclavitud",
+    "Secreto": null,
+    "Motivación": "Continuar escribiendo novelas y artículos que aboguen por la abolición de la esclavitud" 
+  },
+  {
+    "Nombre": "Harriet Tubman",
+    "Profesión": "Abolicionista", 
+    "Edad": 91, 
+    "Rasgos": "Conductora del ferrocarril subterráneo, Espía",
+    "Descripción": "Ayuda a esclavos a escapar a la libertad",
+    "Secreto": null, 
+    "Motivación": "Seguir guiando a esclavos a la libertad a través del ferrocarril subterráneo" 
+  }, 
+  {
+    "Nombre": "Harvey Walters", 
+    "Profesión": "Profesor de Miskatonic",
+    "Edad": 58, 
+    "Rasgos": "Estudioso, Excéntrico", 
+    "Descripción": "Experto en lenguas antiguas y culturas olvidadas, descubre un texto que revela la ubicación de una ciudad perdida", 
+    "Secreto": null,
+    "Motivación": "Encontrar la ciudad perdida y desentrañar sus secretos"
+  }, 
+  {
+    "Nombre": "Henry David Thoreau",
+    "Profesión": "Escritor", 
+    "Edad": 44, 
+    "Rasgos": "Transcendentalista, Naturalista",
+    "Descripción": "Vive en la naturaleza y escribe sobre la simplicidad y la autosuficiencia", 
+    "Secreto": null, 
+    "Motivación": "Vivir una vida simple y escribir sobre sus experiencias en la naturaleza"
+  }, 
+  {
+    "Nombre": "Herbert West", 
+    "Profesión": "Científico", 
+    "Edad": 30, 
+    "Rasgos": "Brillante, Obsesionado",
+    "Descripción": "Experimenta con la reanimación de cadáveres", 
+    "Secreto": null, 
+    "Motivación": "Conquistar la muerte y alcanzar la gloria científica" 
+  },
+  {
+    "Nombre": "Herman Melville", 
+    "Profesión": "Escritor",
+    "Edad": 42, 
+    "Rasgos": "Aventurero, Filósofo", 
+    "Descripción": "Escribe sobre el mar, la naturaleza humana y la lucha contra lo desconocido", 
+    "Secreto": null, 
+    "Motivación": "Completar su novela épica sobre la obsesión de un capitán con una ballena blanca"
+  },
+  {
+    "Nombre": "Hypatia Masters", 
+    "Profesión": "Profesora de física", 
+    "Edad": 35, 
+    "Rasgos": "Brillante, Ambiciosa", 
+    "Descripción": "Investiga la posibilidad de viajar a otras dimensiones", 
+    "Secreto": null, 
+    "Motivación": "Abrir un portal a otra dimensión y explorar lo desconocido"
+  },
+  {
+    "Nombre": "Irene Adler", 
+    "Profesión": "Ladrona profesional", 
+    "Edad": 32, 
+    "Rasgos": "Astuta, Audaz",
+    "Descripción": "Busca robar un objeto místico con poderes peligrosos", 
+    "Secreto": null, 
+    "Motivación": "Usar el objeto para su beneficio personal" 
+  }, 
+  {
+    "Nombre": "Isaiah Freeman", 
+    "Profesión": "Músico", 
+    "Edad": 32,
+    "Rasgos": "Talentoso, Melancólico", 
+    "Descripción": "Su música evoca emociones profundas y conecta con el mundo espiritual",
+    "Secreto": null, 
+    "Motivación": "Componer una obra maestra que trascienda los límites de la realidad"
+  }, 
+  {
+    "Nombre": "Jack London", 
+    "Profesión": "Escritor", 
+    "Edad": 40,
+    "Rasgos": "Aventurero, Socialista", 
+    "Descripción": "Escribe sobre la supervivencia, la naturaleza y la lucha de clases", 
+    "Secreto": null,
+    "Motivación": "Viajar al Klondike en busca de oro y aventuras"
+  },
+  {
+    "Nombre": "Jack Walters", 
+    "Profesión": "Marinero",
+    "Edad": 40, 
+    "Rasgos": "Supersticioso, Temeroso", 
+    "Descripción": "Sobrevivió al ataque de una criatura marina y ahora teme al océano", 
+    "Secreto": null,
+    "Motivación": "Superar su miedo y volver al mar"
+  }, 
+  {
+    "Nombre": "Jacqueline Fine", 
+    "Profesión": "Médium", 
+    "Edad": 40, 
+    "Rasgos": "Espiritual, Compasiva", 
+    "Descripción": "Puede comunicarse con los muertos y ayudarlos a encontrar la paz",
+    "Secreto": null,
+    "Motivación": "Resolver un asesinato con la ayuda de un espíritu"
+  }
+  {
+    "Nombre": "James Fenimore Cooper",
+    "Profesión": "Escritor",
+    "Edad": 68,
+    "Rasgos": "Aventurero, Patriótico",
+    "Descripción": "Escribe sobre la frontera americana, los nativos americanos y la naturaleza",
+    "Secreto": null,
+    "Motivación": "Escribir una novela sobre un cazador de pieles y su relación con un jefe indígena" 
+  },
+  {
+    "Nombre": "Jefferson Davis",
+    "Profesión": "Presidente",
+    "Edad": 57,
+    "Rasgos": "Político, Secesionista",
+    "Descripción": "Presidente de los Estados Confederados de América", 
+    "Secreto": null,
+    "Motivación": "Liderar la Confederación a la independencia"
+  },
+  {
+    "Nombre": "Jenny Barnes",
+    "Profesión": "Dilettante",
+    "Edad": 25,
+    "Rasgos": "Sociable, Carismática",
+    "Descripción": "Es la heredera de una fortuna y busca emociones fuertes", 
+    "Secreto": null, 
+    "Motivación": "Descubrir los secretos de su familia" 
+  },
+  {
+    "Nombre": "Jenny Leclerc", 
+    "Profesión": "Ladrona", 
+    "Edad": 25, 
+    "Rasgos": "Ágil, Astuta", 
+    "Descripción": "Roba artefactos valiosos de coleccionistas adinerados", 
+    "Secreto": null, 
+    "Motivación": "Robar un artefacto maldito sin despertar su poder"
+  },
+  {
+    "Nombre": "Jeremiah Blackwell", 
+    "Profesión": "Sacerdote", 
+    "Edad": 62, 
+    "Rasgos": "Devoto, Conflictivo", 
+    "Descripción": "Lucha contra su fe debido a los horrores que presencia", 
+    "Secreto": null,
+    "Motivación": "Mantener su fe y encontrar respuestas a sus dudas" 
+  }, 
+  {
+    "Nombre": "Jim Culver", 
+    "Profesión": "Granjero", 
+    "Edad": 45,
+    "Rasgos": "Supersticioso, Temeroso", 
+    "Descripción": "Su granja está ubicada cerca de un lugar donde ocurren sucesos extraños", 
+    "Secreto": null,
+    "Motivación": "Proteger a su familia de las fuerzas que acechan cerca de su granja" 
+  }, 
+  {
+    "Nombre": "John Brown",
+    "Profesión": "Abolicionista",
+    "Edad": 59,
+    "Rasgos": "Radical, Revolucionario",
+    "Descripción": "Lidera una incursión armada en Harpers Ferry para iniciar una revuelta de esclavos", 
+    "Secreto": null,
+    "Motivación": "Continuar luchando contra la esclavitud con todos los medios necesarios"
+  },
+  {
+    "Nombre": "Jonathan Van der Meer",
+    "Profesión": "Anticuario",
+    "Edad": 55, 
+    "Rasgos": "Conocedor, Codicioso", 
+    "Descripción": "Busca y vende artefactos raros y ocultos", 
+    "Secreto": null, 
+    "Motivación": "Encontrar un artefacto legendario que se rumorea otorga la inmortalidad" 
+  }, 
+  {
+    "Nombre": "Keziah Mason", 
+    "Profesión": "Bruja", 
+    "Edad": "Desconocida",
+    "Rasgos": "Poderosa, Vengativa",
+    "Descripción": "Busca venganza contra aquellos que la condenaron por brujería", 
+    "Secreto": null, 
+    "Motivación": "Destruir a sus enemigos y recuperar su poder" 
+  }, 
+  {
+    "Nombre": "Lavinia Whateley", 
+    "Profesión": "Bibliotecaria", 
+    "Edad": 25, 
+    "Rasgos": "Tímida, Inteligente", 
+    "Descripción": "Descubre la verdad sobre su herencia familiar y su conexión con los Mitos",
+    "Secreto": null,
+    "Motivación": "Aceptar su destino o luchar contra él"
+  }, 
+  {
+    "Nombre": "Louisa May Alcott", 
+    "Profesión": "Escritora", 
+    "Edad": 55,
+    "Rasgos": "Independiente, Feminista", 
+    "Descripción": "Escribe sobre la vida de las mujeres y su búsqueda de identidad y propósito", 
+    "Secreto": null, 
+    "Motivación": "Inspirar a otras mujeres a través de sus historias y personajes fuertes" 
+  },
+  {
+    "Nombre": "Lucretia Mott", 
+    "Profesión": "Abolicionista",
+    "Edad": 68, 
+    "Rasgos": "Activista, Feminista",
+    "Descripción": "Lucha por la abolición de la esclavitud y los derechos de las mujeres",
+    "Secreto": null, 
+    "Motivación": "Continuar luchando por la justicia social y la igualdad" 
+  }
+  {
+    "Nombre": "Luke Robinson", 
+    "Profesión": "Detective", 
+    "Edad": 45,
+    "Rasgos": "Cínico, Experimentado",
+    "Descripción": "Ha visto demasiado horror en su trabajo y lucha contra el cinismo",
+    "Secreto": null, 
+    "Motivación": "Resolver un caso que involucra rituales oscuros"
+  },
+  {
+    "Nombre": "Margaret Fuller", 
+    "Profesión": "Crítica literaria", 
+    "Edad": 40,
+    "Rasgos": "Feminista, Transcendentalista", 
+    "Descripción": "Aboga por los derechos de las mujeres y la educación",
+    "Secreto": null, 
+    "Motivación": "Escribir un libro sobre la importancia de la educación para las mujeres" 
+  },
+  {
+    "Nombre": "Marie Lambeau", 
+    "Profesión": "Doctora", 
+    "Edad": 32, 
+    "Rasgos": "Compasiva, Dedicada",
+    "Descripción": "Trabaja en un hospital psiquiátrico y trata a pacientes con traumas inexplicables", 
+    "Secreto": null, 
+    "Motivación": "Encontrar la cura para la locura de sus pacientes" 
+  },
+  {
+    "Nombre": "Mark Twain", 
+    "Profesión": "Escritor",
+    "Edad": 74, 
+    "Rasgos": "Satírico, Observador", 
+    "Descripción": "Comenta sobre la sociedad estadounidense y la naturaleza humana con humor e ironía",
+    "Secreto": null, 
+    "Motivación": "Escribir una novela que exponga la hipocresía y la corrupción de la sociedad"
+  }, 
+  {
+    "Nombre": "Mary Coldwell", 
+    "Profesión": "Médium", 
+    "Edad": 45,
+    "Rasgos": "Espiritual, Compasiva", 
+    "Descripción": "Ayuda a los fantasmas a encontrar la paz y resolver asuntos pendientes",
+    "Secreto": null, 
+    "Motivación": "Liberar a un espíritu atrapado en un lugar embrujado"
+  }, 
+  {
+    "Nombre": "Mary Shelley",
+    "Profesión": "Escritora", 
+    "Edad": 28, 
+    "Rasgos": "Imaginativa, Rebelde", 
+    "Descripción": "Su novela Frankenstein explora los límites de la ciencia y la ética", 
+    "Secreto": null, 
+    "Motivación": "Cuestionar la moralidad del progreso científico y sus consecuencias" 
+  }, 
+  {
+    "Nombre": "Michael McGlen",
+    "Profesión": "Investigador Privado",
+    "Edad": 42,
+    "Rasgos": "Cínico, Observador", 
+    "Descripción": "Arrastra un pasado oscuro que lo atormenta", 
+    "Secreto": null, 
+    "Motivación": "Encontrar redención por sus errores pasados"
+  },
+  {
+    "Nombre": "Minh Thi Phan", 
+    "Profesión": "Investigadora Privada", 
+    "Edad": 35,
+    "Rasgos": "Astuta, Observadora", 
+    "Descripción": "Tiene un pasado misterioso y habilidades únicas para resolver casos", 
+    "Secreto": null, 
+    "Motivación": "Desentrañar un misterio personal que la atormenta"
+  }, 
+  {
+    "Nombre": "Monterey Jack", 
+    "Profesión": "Vagabundo",
+    "Edad": "Desconocida", 
+    "Rasgos": "Supersticioso, Solitario", 
+    "Descripción": "Es perseguido por visiones de criaturas sobrenaturales", 
+    "Secreto": null,
+    "Motivación": "Escapar de las criaturas que lo atormentan"
+  }, 
+  {
+    "Nombre": "Nathaniel Hawthorne", 
+    "Profesión": "Escritor",
+    "Edad": 46, 
+    "Rasgos": "Observador, Introspectivo",
+    "Descripción": "Explora temas de culpa, pecado y redención en sus obras", 
+    "Secreto": null, 
+    "Motivación": "Encontrar la inspiración para su próxima novela gótica" 
+  }, 
+  {
+    "Nombre": "Nodens", 
+    "Profesión": "Dios anciano", 
+    "Edad": "Desconocido",
+    "Rasgos": "Benevolente, Sabio", 
+    "Descripción": "Ayuda a los humanos a combatir las fuerzas del mal",
+    "Secreto": null, 
+    "Motivación": "Mantener el equilibrio entre el orden y el caos en el universo" 
+  },
+  {
+    "Nombre": "Norman Withers", 
+    "Profesión": "Reportero", 
+    "Edad": 28, 
+    "Rasgos": "Idealista, Tenaz", 
+    "Descripción": "Busca exponer la verdad sobre la corrupción y las conspiraciones", 
+    "Secreto": null, 
+    "Motivación": "Destapar una conspiración que involucra a la élite de Arkham"
+  }
+  {
+    "Nombre": "Nyarlathotep", 
+    "Profesión": "Dios exterior",
+    "Edad": "Desconocido",
+    "Rasgos": "Caótico, Manipulador",
+    "Descripción": "Se deleita en sembrar el caos y la destrucción entre los humanos", 
+    "Secreto": null, 
+    "Motivación": "Llevar a la humanidad a la locura y la aniquilación"
+  },
+  {
+    "Nombre": "Obed Marsh", 
+    "Profesión": "Capitán de barco", 
+    "Edad": 55,
+    "Rasgos": "Supersticioso, Ambicioso",
+    "Descripción": "Hizo un pacto con criaturas marinas para obtener riquezas",
+    "Secreto": null, 
+    "Motivación": "Mantener su pacto secreto y evitar las consecuencias" 
+  }, 
+  {
+    "Nombre": "Omar Shakti",
+    "Profesión": "Comerciante", 
+    "Edad": 55, 
+    "Rasgos": "Astuto, Misterioso",
+    "Descripción": "Vende objetos exóticos de dudosa procedencia",
+    "Secreto": null, 
+    "Motivación": "Obtener riquezas y poder a través del comercio de artefactos" 
+  }, 
+  {
+    "Nombre": "Oscar Wilde",
+    "Profesión": "Escritor", 
+    "Edad": 46, 
+    "Rasgos": "Ingenioso, Rebelde",
+    "Descripción": "Desafía las normas sociales con su estilo de vida y sus obras",
+    "Secreto": null,
+    "Motivación": "Escribir una obra de teatro que critique la moralidad victoriana"
+  }, 
+  {
+    "Nombre": "Peter Clover", 
+    "Profesión": "Escritor",
+    "Edad": 40,
+    "Rasgos": "Imaginativo, Torturado", 
+    "Descripción": "Escribe historias de terror basadas en sus propias experiencias con lo sobrenatural", 
+    "Secreto": null,
+    "Motivación": "Superar su trauma y encontrar la paz a través de la escritura" 
+  }, 
+  {
+    "Nombre": "Peter Warren",
+    "Profesión": "Anticuario",
+    "Edad": 52,
+    "Rasgos": "Codicioso, Ambicioso", 
+    "Descripción": "Busca artefactos relacionados con los Mitos para venderlos a coleccionistas", 
+    "Secreto": null,
+    "Motivación": "Obtener ganancias sin importar el peligro"
+  },
+  {
+    "Nombre": "Preston Fairmont",
+    "Profesión": "Millonario",
+    "Edad": 70, 
+    "Rasgos": "Excéntrico, Solitario", 
+    "Descripción": "Financia expediciones a lugares remotos en busca de artefactos míticos", 
+    "Secreto": null,
+    "Motivación": "Encontrar la fuente de la juventud eterna"
+  }, 
+  {
+    "Nombre": "Professor Warren Rice",
+    "Profesión": "Arqueólogo",
+    "Edad": 55, 
+    "Rasgos": "Aventurero, Estudioso", 
+    "Descripción": "Lidera una expedición a una tumba antigua en busca de un artefacto",
+    "Secreto": null,
+    "Motivación": "Encontrar el artefacto antes de que caiga en las manos equivocadas" 
+  }, 
+  {
+    "Nombre": "Ralph Waldo Emerson",
+    "Profesión": "Ensayista",
+    "Edad": 78, 
+    "Rasgos": "Transcendentalista, Filósofo",
+    "Descripción": "Escribe sobre el individualismo, la naturaleza y la superación personal", 
+    "Secreto": null, 
+    "Motivación": "Dar conferencias sobre el trascendentalismo y la importancia del individuo" 
+  }, 
+  {
+    "Nombre": "Randolph Carter",
+    "Profesión": "Soñador", 
+    "Edad": 35,
+    "Rasgos": "Imaginativo, Melancólico", 
+    "Descripción": "Busca una ciudad onírica que aparece en sus sueños",
+    "Secreto": null, 
+    "Motivación": "Encontrar la ciudad de sus sueños y descubrir su significado" 
+  },
+  {
+    "Nombre": "Rebecca Sherringford",
+    "Profesión": "Herbolaria",
+    "Edad": 70,
+    "Rasgos": "Sabia, Misteriosa", 
+    "Descripción": "Conoce los secretos de las plantas y sus propiedades mágicas", 
+    "Secreto": null,
+    "Motivación": "Crear una cura para una enfermedad sobrenatural"
+  }
+  {
+    "Nombre": "Richard Upton Pickman", 
+    "Profesión": "Artista", 
+    "Edad": 40, 
+    "Rasgos": "Macabro, Solitario", 
+    "Descripción": "Pinta escenas grotescas inspiradas en criaturas de las profundidades",
+    "Secreto": null, 
+    "Motivación": "Encontrar la belleza en el horror" 
+  },
+  {
+    "Nombre": "Robert Blake", 
+    "Profesión": "Poeta",
+    "Edad": 30,
+    "Rasgos": "Sensible, Melancólico", 
+    "Descripción": "Sus poemas hablan del dolor, la pérdida y el miedo a lo desconocido", 
+    "Secreto": null,
+    "Motivación": "Encontrar consuelo en la expresión artística y la belleza del lenguaje"
+  }, 
+  {
+    "Nombre": "Robert E. Lee", 
+    "Profesión": "General",
+    "Edad": 58, 
+    "Rasgos": "Estratega militar, Héroe de guerra", 
+    "Descripción": "Lidera el ejército confederado durante la Guerra Civil", 
+    "Secreto": null, 
+    "Motivación": "Defender la Confederación y su forma de vida"
+  }, 
+  {
+    "Nombre": "Robert Louis Stevenson", 
+    "Profesión": "Escritor", 
+    "Edad": 44, 
+    "Rasgos": "Aventurero, Romántico", 
+    "Descripción": "Escribe sobre piratas, tesoros y la dualidad del hombre", 
+    "Secreto": null, 
+    "Motivación": "Encontrar la inspiración para su próxima novela de aventuras" 
+  },
+  {
+    "Nombre": "Robert Olmstead",
+    "Profesión": "Periodista", 
+    "Edad": 35, 
+    "Rasgos": "Valiente, Tenaz", 
+    "Descripción": "Investiga la desaparición de personas en un pueblo costero", 
+    "Secreto": null, 
+    "Motivación": "Descubrir la verdad detrás de las desapariciones"
+  },
+  {
+    "Nombre": "Samuel West",
+    "Profesión": "Detective", 
+    "Edad": 45, 
+    "Rasgos": "Tenaz, Escéptico",
+    "Descripción": "Investiga casos extraños y paranormales con una mente lógica", 
+    "Secreto": null,
+    "Motivación": "Resolver un caso que desafía su visión racional del mundo" 
+  },
+  {
+    "Nombre": "Sarah Hawkins", 
+    "Profesión": "Bibliotecaria",
+    "Edad": 29, 
+    "Rasgos": "Curiosa, Inteligente", 
+    "Descripción": "Descubre un código secreto en un libro antiguo", 
+    "Secreto": null,
+    "Motivación": "Descifrar el código y descubrir sus secretos" 
+  }, 
+  {
+    "Nombre": "Sefina Rousseau",
+    "Profesión": "Artista",
+    "Edad": 29,
+    "Rasgos": "Creativa, Melancólica",
+    "Descripción": "Tiene sueños premonitorios y pinta escenas de horrores cósmicos", 
+    "Secreto": null, 
+    "Motivación": "Comprender el significado de sus sueños" 
+  }, 
+  {
+    "Nombre": "Silas Marsh", 
+    "Profesión": "Pescador",
+    "Edad": 58,
+    "Rasgos": "Sabio, Recluso", 
+    "Descripción": "Conoce leyendas del mar y criaturas que habitan las profundidades", 
+    "Secreto": null, 
+    "Motivación": "Proteger a su pueblo de las criaturas marinas" 
+  },
+  {
+    "Nombre": "Simon Carter",
+    "Profesión": "Detective privado",
+    "Edad": 48,
+    "Rasgos": "Cínico, Observador", 
+    "Descripción": "Investiga casos relacionados con lo sobrenatural a regañadientes",
+    "Secreto": null,
+    "Motivación": "Mantener el orden y la justicia en un mundo caótico"
+  },
+  {
+    "Nombre": "Sister Agatha",
+    "Profesión": "Monja", 
+    "Edad": 70, 
+    "Rasgos": "Piadosa, Misteriosa", 
+    "Descripción": "Oculta un pasado oscuro y conocimientos de lo oculto", 
+    "Secreto": null,
+    "Motivación": "Proteger a su convento de una entidad maligna que acecha en las sombras" 
+  }
+  {
+    "Nombre": "Sister Mary",
+    "Profesión": "Monja",
+    "Edad": 60,
+    "Rasgos": "Piadosa, Compasiva",
+    "Descripción": "Dirige un orfanato y protege a los niños de las fuerzas oscuras", 
+    "Secreto": null,
+    "Motivación": "Proteger a los niños del orfanato de una amenaza sobrenatural"
+  },
+  {
+    "Nombre": "Sojourner Truth", 
+    "Profesión": "Abolicionista",
+    "Edad": 86,
+    "Rasgos": "Activista, Feminista",
+    "Descripción": "Lucha por la abolición de la esclavitud y los derechos de las mujeres", 
+    "Secreto": null,
+    "Motivación": "Dar discursos sobre la esclavitud y los derechos de las mujeres"
+  },
+  {
+    "Nombre": "Stonewall Jackson", 
+    "Profesión": "General", 
+    "Edad": 39, 
+    "Rasgos": "Estratega militar, Héroe de guerra",
+    "Descripción": "Lidera el ejército confederado durante la Guerra Civil",
+    "Secreto": null,
+    "Motivación": "Ganar batallas clave para la Confederación" 
+  }, 
+  {
+    "Nombre": "Susan B. Anthony",
+    "Profesión": "Sufragista", 
+    "Edad": 52, 
+    "Rasgos": "Activista, Feminista", 
+    "Descripción": "Lucha por el derecho al voto de las mujeres", 
+    "Secreto": null,
+    "Motivación": "Continuar luchando por el sufragio femenino" 
+  }, 
+  {
+    "Nombre": "Thomas Malone", 
+    "Profesión": "Escritor", 
+    "Edad": 38, 
+    "Rasgos": "Creativo, Torturado",
+    "Descripción": "Sufre de visiones aterradoras que usa como inspiración para sus novelas",
+    "Secreto": null,
+    "Motivación": "Encontrar la paz mental y escapar de sus visiones"
+  }, 
+  {
+    "Nombre": "Ulysses S. Grant", 
+    "Profesión": "General", 
+    "Edad": 43, 
+    "Rasgos": "Estratega militar, Héroe de guerra", 
+    "Descripción": "Lidera el ejército de la Unión a la victoria durante la Guerra Civil", 
+    "Secreto": null,
+    "Motivación": "Ganar la Guerra Civil y restaurar la Unión"
+  }, 
+  {
+    "Nombre": "Vivian Lopez", 
+    "Profesión": "Artista", 
+    "Edad": 28,
+    "Rasgos": "Creativa, Visionaria",
+    "Descripción": "Sus esculturas representan criaturas de pesadilla y paisajes oníricos", 
+    "Secreto": null, 
+    "Motivación": "Descubrir el significado de sus visiones artísticas" 
+  }, 
+  {
+    "Nombre": "Walt Whitman", 
+    "Profesión": "Poeta", 
+    "Edad": 72, 
+    "Rasgos": "Humanista, Transcendentalista",
+    "Descripción": "Celebra la vida, la naturaleza y la democracia en sus poemas", 
+    "Secreto": null, 
+    "Motivación": "Escribir un poema épico sobre la experiencia americana y la condición humana"
+  },
+  {
+    "Nombre": "Walter Gilman", 
+    "Profesión": "Estudiante de Matemáticas",
+    "Edad": 21,
+    "Rasgos": "Inteligente, Introvertido",
+    "Descripción": "Obsesionado con geometrías no euclidianas que le provocan alucinaciones", 
+    "Secreto": null,
+    "Motivación": "Comprender la naturaleza de sus visiones"
+  }, 
+  {
+    "Nombre": "Washington Irving", 
+    "Profesión": "Escritor",
+    "Edad": 76, 
+    "Rasgos": "Romántico, Satírico",
+    "Descripción": "Escribe sobre leyendas, fantasmas y la historia estadounidense", 
+    "Secreto": null, 
+    "Motivación": "Recolectar historias de fantasmas y leyendas locales para su próximo libro"
+  }, 
+  {
+    "Nombre": "Wilbur Whateley",
+    "Profesión": "Granjero", 
+    "Edad": 17,
+    "Rasgos": "Extraño, Solitario", 
+    "Descripción": "Es el resultado de la unión entre un humano y una entidad extraterrestre",
+    "Secreto": null,
+    "Motivación": "Encontrar su lugar en el mundo y comprender su naturaleza" 
+  }
+  {
+    "Nombre": "William Dyer",
+    "Profesión": "Artista",
+    "Edad": 42,
+    "Rasgos": "Torturado, Visionario",
+    "Descripción": "Pinta escenas grotescas y perturbadoras inspiradas por sus pesadillas", 
+    "Secreto": null,
+    "Motivación": "Encontrar la paz interior y liberarse de sus visiones atormentadoras" 
+  },
+  {
+    "Nombre": "William Lloyd Garrison", 
+    "Profesión": "Abolicionista",
+    "Edad": 78, 
+    "Rasgos": "Activista, Editor",
+    "Descripción": "Funda el periódico The Liberator y lucha por la abolición inmediata de la esclavitud",
+    "Secreto": null, 
+    "Motivación": "Continuar publicando The Liberator y abogando por la abolición de la esclavitud" 
+  },
+  {
+    "Nombre": "William Yorick", 
+    "Profesión": "Anticuario",
+    "Edad": 48, 
+    "Rasgos": "Codicioso, Conocedor", 
+    "Descripción": "Vende artefactos antiguos y objetos ocultos", 
+    "Secreto": null, 
+    "Motivación": "Vender un artefacto maldito a un coleccionista desprevenido" 
+  },
+  {
+    "Nombre": "Wilson Richards",
+    "Profesión": "Político", 
+    "Edad": 55, 
+    "Rasgos": "Corrupto, Manipulador", 
+    "Descripción": "Tiene tratos con una sociedad secreta que busca el poder", 
+    "Secreto": null, 
+    "Motivación": "Obtener más poder e influencia"
+  }, 
+  {
+    "Nombre": "Xiuhcoatl Martinez",
+    "Profesión": "Arqueóloga",
+    "Edad": 32, 
+    "Rasgos": "Aventurera, Apasionada",
+    "Descripción": "Investiga ruinas precolombinas y descubre secretos olvidados", 
+    "Secreto": null, 
+    "Motivación": "Proteger los secretos de las culturas antiguas" 
+  }, 
+  {
+    "Nombre": "Zebulon Whateley", 
+    "Profesión": "Granjero",
+    "Edad": 78,
+    "Rasgos": "Astuto, Solitario", 
+    "Descripción": "Oculta un ser de origen extraterrestre en su granja",
+    "Secreto": null,
+    "Motivación": "Proteger a su \"hijo\" del mundo exterior" 
+  },
+  {
+    "Nombre": "Zoey Samaras", 
+    "Profesión": "Camarera",
+    "Edad": 22,
+    "Rasgos": "Atrevida, Independiente", 
+    "Descripción": "Sueña con dejar su vida monótona y vivir aventuras", 
+    "Secreto": null, 
+    "Motivación": "Escapar de su vida aburrida y encontrar emoción" 
+  }
+]
