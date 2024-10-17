@@ -1,0 +1,445 @@
+{
+  "Personajes NPC": [
+    {
+      "Nombre": "Pete \"Ashcan\"",
+      "Profesión": "Vendedor de Periódicos",
+      "Edad": 12,
+      "Rasgos": "Astuto, Callejero",
+      "Descripción": "Conoce los secretos de la ciudad y se gana la vida con información",
+      "Secreto": null,
+      "Motivación": "Ayudar a su familia a salir de la pobreza"
+    },
+    {
+      "Nombre": "Abigail Foreman",
+      "Profesión": "Médium",
+      "Edad": 60,
+      "Rasgos": "Espiritual, Bondadosa",
+      "Descripción": "Ayuda a las almas perdidas a encontrar el descanso",
+      "Secreto": null,
+      "Motivación": "Liberar a un espíritu atrapado por una entidad maligna"
+    },
+    {
+      "Nombre": "Abraham Lincoln",
+      "Profesión": "Presidente",
+      "Edad": 56,
+      "Rasgos": "Político, Abolicionista",
+      "Descripción": "Lidera la Unión durante la Guerra Civil y firma la Proclamación de Emancipación",
+      "Secreto": null,
+      "Motivación": "Ganar la Guerra Civil y abolir la esclavitud en Estados Unidos"
+    },
+    {
+      "Nombre": "Agnes Baker",
+      "Profesión": "Ama de Llaves",
+      "Edad": 58,
+      "Rasgos": "Observadora, Discreta",
+      "Descripción": "Conoce los secretos de la casa donde trabaja y de sus habitantes",
+      "Secreto": null,
+      "Motivación": "Proteger a la familia para la que trabaja"
+    },
+    {
+      "Nombre": "Pete \"Ashcan\"",
+      "Profesión": "Vendedor de Periódicos",
+      "Edad": 12,
+      "Rasgos": "Astuto, Callejero",
+      "Descripción": "Conoce los secretos de la ciudad y se gana la vida con información",
+      "Secreto": null,
+      "Motivación": "Ayudar a su familia a salir de la pobreza"
+    },
+    {
+      "Nombre": "Abigail Foreman",
+      "Profesión": "Médium",
+      "Edad": 60,
+      "Rasgos": "Espiritual, Bondadosa",
+      "Descripción": "Ayuda a las almas perdidas a encontrar el descanso",
+      "Secreto": null,
+      "Motivación": "Liberar a un espíritu atrapado por una entidad maligna"
+    },
+    {
+      "Nombre": "Abraham Lincoln",
+      "Profesión": "Presidente",
+      "Edad": 56,
+      "Rasgos": "Político, Abolicionista",
+      "Descripción": "Lidera la Unión durante la Guerra Civil y firma la Proclamación de Emancipación",
+      "Secreto": null,
+      "Motivación": "Ganar la Guerra Civil y abolir la esclavitud en Estados Unidos"
+    },
+    {
+      "Nombre": "Agnes Baker",
+      "Profesión": "Ama de Llaves",
+      "Edad": 58,
+      "Rasgos": "Observadora, Discreta",
+      "Descripción": "Conoce los secretos de la casa donde trabaja y de sus habitantes",
+      "Secreto": null,
+      "Motivación": "Proteger a la familia para la que trabaja"
+    },
+    {
+      "Nombre": "Alice Derleth",
+      "Profesión": "Bibliotecaria",
+      "Edad": 35,
+      "Rasgos": "Curiosa, Inteligente",
+      "Descripción": "Descubre un libro antiguo que contiene un ritual peligroso",
+      "Secreto": null,
+      "Motivación": "Descifrar el ritual y evitar que se lleve a cabo"
+    },
+    {
+      "Nombre": "Amanda Sharpe",
+      "Profesión": "Profesora Universitaria",
+      "Edad": 35,
+      "Rasgos": "Inteligente, Dedicada",
+      "Descripción": "Investiga un antiguo artefacto que parece tener poderes sobrenaturales",
+      "Secreto": null,
+      "Motivación": "Desentrañar los misterios del artefacto"
+    },
+    {
+      "Nombre": "Andrew Carnegie",
+      "Profesión": "Industrial",
+      "Edad": 66,
+      "Rasgos": "Filántropo, Magnate del acero",
+      "Descripción": "Acumula una gran fortuna en la industria del acero",
+      "Secreto": null,
+      "Motivación": "Usar su fortuna para financiar bibliotecas, universidades y otras instituciones públicas"
+    },
+    {
+      "Nombre": "Pete \"Ashcan\"",
+      "Profesión": "Vendedor de Periódicos",
+      "Edad": 12,
+      "Rasgos": "Astuto, Callejero",
+      "Descripción": "Conoce los secretos de la ciudad y se gana la vida con información",
+      "Secreto": null,
+      "Motivación": "Ayudar a su familia a salir de la pobreza"
+    },
+    {
+      "Nombre": "Abigail Foreman",
+      "Profesión": "Médium",
+      "Edad": 60,
+      "Rasgos": "Espiritual, Bondadosa",
+      "Descripción": "Ayuda a las almas perdidas a encontrar el descanso",
+      "Secreto": null,
+      "Motivación": "Liberar a un espíritu atrapado por una entidad maligna"
+    },
+    {
+      "Nombre": "Abraham Lincoln",
+      "Profesión": "Presidente",
+      "Edad": 56,
+      "Rasgos": "Político, Abolicionista",
+      "Descripción": "Lidera la Unión durante la Guerra Civil y firma la Proclamación de Emancipación",
+      "Secreto": null,
+      "Motivación": "Ganar la Guerra Civil y abolir la esclavitud en Estados Unidos"
+    },
+    {
+      "Nombre": "Agnes Baker",
+      "Profesión": "Ama de Llaves",
+      "Edad": 58,
+      "Rasgos": "Observadora, Discreta",
+      "Descripción": "Conoce los secretos de la casa donde trabaja y de sus habitantes",
+      "Secreto": null,
+      "Motivación": "Proteger a la familia para la que trabaja"
+    },
+    {
+      "Nombre": "Alice Derleth",
+      "Profesión": "Bibliotecaria",
+      "Edad": 35,
+      "Rasgos": "Curiosa, Inteligente",
+      "Descripción": "Descubre un libro antiguo que contiene un ritual peligroso",
+      "Secreto": null,
+      "Motivación": "Descifrar el ritual y evitar que se lleve a cabo"
+    },
+    {
+      "Nombre": "Amanda Sharpe",
+      "Profesión": "Profesora Universitaria",
+      "Edad": 35,
+      "Rasgos": "Inteligente, Dedicada",
+      "Descripción": "Investiga un antiguo artefacto que parece tener poderes sobrenaturales",
+      "Secreto": null,
+      "Motivación": "Desentrañar los misterios del artefacto"
+    },
+    {
+      "Nombre": "Andrew Carnegie",
+      "Profesión": "Industrial",
+      "Edad": 66,
+      "Rasgos": "Filántropo, Magnate del acero",
+      "Descripción": "Acumula una gran fortuna en la industria del acero",
+      "Secreto": null,
+      "Motivación": "Usar su fortuna para financiar bibliotecas, universidades y otras instituciones públicas"
+    },
+    {
+      "Nombre": "Andrew Ryan",
+      "Profesión": "Empresario",
+      "Edad": 65,
+      "Rasgos": "Visionario, Despiadado",
+      "Descripción": "Construyó una ciudad submarina utópica que esconde un oscuro secreto",
+      "Secreto": null,
+      "Motivación": "Mantener el control de su ciudad y su legado"
+    },
+    {
+      "Nombre": "Pete \"Ashcan\"",
+      "Profesión": "Vendedor de Periódicos",
+      "Edad": 12,
+      "Rasgos": "Astuto, Callejero",
+      "Descripción": "Conoce los secretos de la ciudad y se gana la vida con información",
+      "Secreto": null,
+      "Motivación": "Ayudar a su familia a salir de la pobreza"
+    },
+    {
+      "Nombre": "Abigail Foreman",
+      "Profesión": "Médium",
+      "Edad": 60,
+      "Rasgos": "Espiritual, Bondadosa",
+      "Descripción": "Ayuda a las almas perdidas a encontrar el descanso",
+      "Secreto": null,
+      "Motivación": "Liberar a un espíritu atrapado por una entidad maligna"
+    },
+    {
+      "Nombre": "Abraham Lincoln",
+      "Profesión": "Presidente",
+      "Edad": 56,
+      "Rasgos": "Político, Abolicionista",
+      "Descripción": "Lidera la Unión durante la Guerra Civil y firma la Proclamación de Emancipación",
+      "Secreto": null,
+      "Motivación": "Ganar la Guerra Civil y abolir la esclavitud en Estados Unidos"
+    },
+    {
+      "Nombre": "Agnes Baker",
+      "Profesión": "Ama de Llaves",
+      "Edad": 58,
+      "Rasgos": "Observadora, Discreta",
+      "Descripción": "Conoce los secretos de la casa donde trabaja y de sus habitantes",
+      "Secreto": null,
+      "Motivación": "Proteger a la familia para la que trabaja"
+    },
+    {
+      "Nombre": "Alice Derleth",
+      "Profesión": "Bibliotecaria",
+      "Edad": 35,
+      "Rasgos": "Curiosa, Inteligente",
+      "Descripción": "Descubre un libro antiguo que contiene un ritual peligroso",
+      "Secreto": null,
+      "Motivación": "Descifrar el ritual y evitar que se lleve a cabo"
+    },
+    {
+      "Nombre": "Amanda Sharpe",
+      "Profesión": "Profesora Universitaria",
+      "Edad": 35,
+      "Rasgos": "Inteligente, Dedicada",
+      "Descripción": "Investiga un antiguo artefacto que parece tener poderes sobrenaturales",
+      "Secreto": null,
+      "Motivación": "Desentrañar los misterios del artefacto"
+    },
+    {
+      "Nombre": "Andrew Carnegie",
+      "Profesión": "Industrial",
+      "Edad": 66,
+      "Rasgos": "Filántropo, Magnate del acero",
+      "Descripción": "Acumula una gran fortuna en la industria del acero",
+      "Secreto": null,
+      "Motivación": "Usar su fortuna para financiar bibliotecas, universidades y otras instituciones públicas"
+    },
+    {
+      "Nombre": "Andrew Ryan",
+      "Profesión": "Empresario",
+      "Edad": 65,
+      "Rasgos": "Visionario, Despiadado",
+      "Descripción": "Construyó una ciudad submarina utópica que esconde un oscuro secreto",
+      "Secreto": null,
+      "Motivación": "Mantener el control de su ciudad y su legado"
+    },
+    {
+      "Nombre": "Asenath Waite",
+      "Profesión": "Ocultista",
+      "Edad": 28,
+      "Rasgos": "Manipuladora, Poderosa",
+      "Descripción": "Posee conocimientos de magia negra y busca la inmortalidad",
+      "Secreto": null,
+      "Motivación": "Alcanzar la vida eterna a cualquier precio"
+    },
+    {
+      "Nombre": "Pete \"Ashcan\"",
+      "Profesión": "Vendedor de Periódicos",
+      "Edad": 12,
+      "Rasgos": "Astuto, Callejero",
+      "Descripción": "Conoce los secretos de la ciudad y se gana la vida con información",
+      "Secreto": null,
+      "Motivación": "Ayudar a su familia a salir de la pobreza"
+    },
+    {
+      "Nombre": "Abigail Foreman",
+      "Profesión": "Médium",
+      "Edad": 60,
+      "Rasgos": "Espiritual, Bondadosa",
+      "Descripción": "Ayuda a las almas perdidas a encontrar el descanso",
+      "Secreto": null,
+      "Motivación": "Liberar a un espíritu atrapado por una entidad maligna"
+    },
+    {
+      "Nombre": "Abraham Lincoln",
+      "Profesión": "Presidente",
+      "Edad": 56,
+      "Rasgos": "Político, Abolicionista",
+      "Descripción": "Lidera la Unión durante la Guerra Civil y firma la Proclamación de Emancipación",
+      "Secreto": null,
+      "Motivación": "Ganar la Guerra Civil y abolir la esclavitud en Estados Unidos"
+    },
+    {
+      "Nombre": "Agnes Baker",
+      "Profesión": "Ama de Llaves",
+      "Edad": 58,
+      "Rasgos": "Observadora, Discreta",
+      "Descripción": "Conoce los secretos de la casa donde trabaja y de sus habitantes",
+      "Secreto": null,
+      "Motivación": "Proteger a la familia para la que trabaja"
+    },
+    {
+      "Nombre": "Alice Derleth",
+      "Profesión": "Bibliotecaria",
+      "Edad": 35,
+      "Rasgos": "Curiosa, Inteligente",
+      "Descripción": "Descubre un libro antiguo que contiene un ritual peligroso",
+      "Secreto": null,
+      "Motivación": "Descifrar el ritual y evitar que se lleve a cabo"
+    },
+    {
+      "Nombre": "Amanda Sharpe",
+      "Profesión": "Profesora Universitaria",
+      "Edad": 35,
+      "Rasgos": "Inteligente, Dedicada",
+      "Descripción": "Investiga un antiguo artefacto que parece tener poderes sobrenaturales",
+      "Secreto": null,
+      "Motivación": "Desentrañar los misterios del artefacto"
+    },
+    {
+      "Nombre": "Andrew Carnegie",
+      "Profesión": "Industrial",
+      "Edad": 66,
+      "Rasgos": "Filántropo, Magnate del acero",
+      "Descripción": "Acumula una gran fortuna en la industria del acero",
+      "Secreto": null,
+      "Motivación": "Usar su fortuna para financiar bibliotecas, universidades y otras instituciones públicas"
+    },
+    {
+      "Nombre": "Andrew Ryan",
+      "Profesión": "Empresario",
+      "Edad": 65,
+      "Rasgos": "Visionario, Despiadado",
+      "Descripción": "Construyó una ciudad submarina utópica que esconde un oscuro secreto",
+      "Secreto": null,
+      "Motivación": "Mantener el control de su ciudad y su legado"
+    },
+    {
+      "Nombre": "Asenath Waite",
+      "Profesión": "Ocultista",
+      "Edad": 28,
+      "Rasgos": "Manipuladora, Poderosa",
+      "Descripción": "Posee conocimientos de magia negra y busca la inmortalidad",
+      "Secreto": null,
+      "Motivación": "Alcanzar la vida eterna a cualquier precio"
+    },
+    {
+      "Nombre": "Beatrice Dubois",
+      "Profesión": "Aristócrata",
+      "Edad": 30,
+      "Rasgos": "Elegante, Fría",
+      "Descripción": "Su familia oculta un legado oscuro relacionado con un culto",
+      "Secreto": null,
+      "Motivación": "Romper la conexión familiar con el culto"
+    },
+    {
+      "Nombre": "Pete \"Ashcan\"",
+      "Profesión": "Vendedor de Periódicos",
+      "Edad": 12,
+      "Rasgos": "Astuto, Callejero",
+      "Descripción": "Conoce los secretos de la ciudad y se gana la vida con información",
+      "Secreto": null,
+      "Motivación": "Ayudar a su familia a salir de la pobreza"
+    },
+    {
+      "Nombre": "Abigail Foreman",
+      "Profesión": "Médium",
+      "Edad": 60,
+      "Rasgos": "Espiritual, Bondadosa",
+      "Descripción": "Ayuda a las almas perdidas a encontrar el descanso",
+      "Secreto": null,
+      "Motivación": "Liberar a un espíritu atrapado por una entidad maligna"
+    },
+    {
+      "Nombre": "Abraham Lincoln",
+      "Profesión": "Presidente",
+      "Edad": 56,
+      "Rasgos": "Político, Abolicionista",
+      "Descripción": "Lidera la Unión durante la Guerra Civil y firma la Proclamación de Emancipación",
+      "Secreto": null,
+      "Motivación": "Ganar la Guerra Civil y abolir la esclavitud en Estados Unidos"
+    },
+    {
+      "Nombre": "Agnes Baker",
+      "Profesión": "Ama de Llaves",
+      "Edad": 58,
+      "Rasgos": "Observadora, Discreta",
+      "Descripción": "Conoce los secretos de la casa donde trabaja y de sus habitantes",
+      "Secreto": null,
+      "Motivación": "Proteger a la familia para la que trabaja"
+    },
+    {
+      "Nombre": "Alice Derleth",
+      "Profesión": "Bibliotecaria",
+      "Edad": 35,
+      "Rasgos": "Curiosa, Inteligente",
+      "Descripción": "Descubre un libro antiguo que contiene un ritual peligroso",
+      "Secreto": null,
+      "Motivación": "Descifrar el ritual y evitar que se lleve a cabo"
+    },
+    {
+      "Nombre": "Amanda Sharpe",
+      "Profesión": "Profesora Universitaria",
+      "Edad": 35,
+      "Rasgos": "Inteligente, Dedicada",
+      "Descripción": "Investiga un antiguo artefacto que parece tener poderes sobrenaturales",
+      "Secreto": null,
+      "Motivación": "Desentrañar los misterios del artefacto"
+    },
+    {
+      "Nombre": "Andrew Carnegie",
+      "Profesión": "Industrial",
+      "Edad": 66,
+      "Rasgos": "Filántropo, Magnate del acero",
+      "Descripción": "Acumula una gran fortuna en la industria del acero",
+      "Secreto": null,
+      "Motivación": "Usar su fortuna para financiar bibliotecas, universidades y otras instituciones públicas"
+    },
+    {
+      "Nombre": "Andrew Ryan",
+      "Profesión": "Empresario",
+      "Edad": 65,
+      "Rasgos": "Visionario, Despiadado",
+      "Descripción": "Construyó una ciudad submarina utópica que esconde un oscuro secreto",
+      "Secreto": null,
+      "Motivación": "Mantener el control de su ciudad y su legado"
+    },
+    {
+      "Nombre": "Asenath Waite",
+      "Profesión": "Ocultista",
+      "Edad": 28,
+      "Rasgos": "Manipuladora, Poderosa",
+      "Descripción": "Posee conocimientos de magia negra y busca la inmortalidad",
+      "Secreto": null,
+      "Motivación": "Alcanzar la vida eterna a cualquier precio"
+    },
+    {
+      "Nombre": "Beatrice Dubois",
+      "Profesión": "Aristócrata",
+      "Edad": 30,
+      "Rasgos": "Elegante, Fría",
+      "Descripción": "Su familia oculta un legado oscuro relacionado con un culto",
+      "Secreto": null,
+      "Motivación": "Romper la conexión familiar con el culto"
+    },
+    {
+      "Nombre": "Beatrice Sharpe",
+      "Profesión": "Estudiante",
+      "Edad": 20,
+      "Rasgos": "Rebelde, Inteligente",
+      "Descripción": "Se ve envuelta en un misterio que involucra a su universidad",
+      "Secreto": null,
+      "Motivación": "Descubrir la verdad detrás del misterio"
+    }
+  ],
+ }

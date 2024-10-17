@@ -1,0 +1,1138 @@
+{
+  "Investigadores": [
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Amelia Croft",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una arqueóloga intrépida, atraída por los misterios de civilizaciones antiguas y artefactos olvidados."
+    },
+    {
+      "Nombre": "Padre Michael O'Malley",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un sacerdote atormentado por su fe, que lucha contra las fuerzas demoníacas que amenazan su parroquia."
+    },
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Amelia Croft",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una arqueóloga intrépida, atraída por los misterios de civilizaciones antiguas y artefactos olvidados."
+    },
+    {
+      "Nombre": "Padre Michael O'Malley",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un sacerdote atormentado por su fe, que lucha contra las fuerzas demoníacas que amenazan su parroquia."
+    },
+    {
+      "Nombre": "Isabella Rossellini",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una famosa actriz de cine mudo, perseguida por una entidad maligna ligada a su última película."
+    },
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Amelia Croft",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una arqueóloga intrépida, atraída por los misterios de civilizaciones antiguas y artefactos olvidados."
+    },
+    {
+      "Nombre": "Padre Michael O'Malley",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un sacerdote atormentado por su fe, que lucha contra las fuerzas demoníacas que amenazan su parroquia."
+    },
+    {
+      "Nombre": "Isabella Rossellini",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una famosa actriz de cine mudo, perseguida por una entidad maligna ligada a su última película."
+    },
+    {
+      "Nombre": "Henry Armitage",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un bibliotecario anciano y erudito, guardián de textos arcanos y conocedor de los Mitos de Cthulhu."
+    },
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Amelia Croft",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una arqueóloga intrépida, atraída por los misterios de civilizaciones antiguas y artefactos olvidados."
+    },
+    {
+      "Nombre": "Padre Michael O'Malley",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un sacerdote atormentado por su fe, que lucha contra las fuerzas demoníacas que amenazan su parroquia."
+    },
+    {
+      "Nombre": "Isabella Rossellini",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una famosa actriz de cine mudo, perseguida por una entidad maligna ligada a su última película."
+    },
+    {
+      "Nombre": "Henry Armitage",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un bibliotecario anciano y erudito, guardián de textos arcanos y conocedor de los Mitos de Cthulhu."
+    },
+    {
+      "Nombre": "Jenny Barnes",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una diletante y socialité, con una curiosidad insaciable por lo oculto y las artes oscuras."
+    },
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Amelia Croft",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una arqueóloga intrépida, atraída por los misterios de civilizaciones antiguas y artefactos olvidados."
+    },
+    {
+      "Nombre": "Padre Michael O'Malley",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un sacerdote atormentado por su fe, que lucha contra las fuerzas demoníacas que amenazan su parroquia."
+    },
+    {
+      "Nombre": "Isabella Rossellini",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una famosa actriz de cine mudo, perseguida por una entidad maligna ligada a su última película."
+    },
+    {
+      "Nombre": "Henry Armitage",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un bibliotecario anciano y erudito, guardián de textos arcanos y conocedor de los Mitos de Cthulhu."
+    },
+    {
+      "Nombre": "Jenny Barnes",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una diletante y socialité, con una curiosidad insaciable por lo oculto y las artes oscuras."
+    },
+    {
+      "Nombre": "Jim Culver",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un músico de blues itinerante, que viaja por el sur de Estados Unidos enfrentando criaturas sobrenaturales."
+    },
+      {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Amelia Croft",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una arqueóloga intrépida, atraída por los misterios de civilizaciones antiguas y artefactos olvidados."
+    },
+    {
+      "Nombre": "Padre Michael O'Malley",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un sacerdote atormentado por su fe, que lucha contra las fuerzas demoníacas que amenazan su parroquia."
+    },
+    {
+      "Nombre": "Isabella Rossellini",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una famosa actriz de cine mudo, perseguida por una entidad maligna ligada a su última película."
+    },
+    {
+      "Nombre": "Henry Armitage",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un bibliotecario anciano y erudito, guardián de textos arcanos y conocedor de los Mitos de Cthulhu."
+    },
+    {
+      "Nombre": "Jenny Barnes",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una diletante y socialité, con una curiosidad insaciable por lo oculto y las artes oscuras."
+    },
+    {
+      "Nombre": "Jim Culver",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un músico de blues itinerante, que viaja por el sur de Estados Unidos enfrentando criaturas sobrenaturales."
+    },
+    {
+      "Nombre": "Gloria Goldberg",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una reportera ambiciosa, que investiga una serie de asesinatos rituales conectados a un culto misterioso."
+    },  
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Amelia Croft",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una arqueóloga intrépida, atraída por los misterios de civilizaciones antiguas y artefactos olvidados."
+    },
+    {
+      "Nombre": "Padre Michael O'Malley",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un sacerdote atormentado por su fe, que lucha contra las fuerzas demoníacas que amenazan su parroquia."
+    },
+    {
+      "Nombre": "Isabella Rossellini",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una famosa actriz de cine mudo, perseguida por una entidad maligna ligada a su última película."
+    },
+    {
+      "Nombre": "Henry Armitage",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un bibliotecario anciano y erudito, guardián de textos arcanos y conocedor de los Mitos de Cthulhu."
+    },
+    {
+      "Nombre": "Jenny Barnes",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una diletante y socialité, con una curiosidad insaciable por lo oculto y las artes oscuras."
+    },
+    {
+      "Nombre": "Jim Culver",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un músico de blues itinerante, que viaja por el sur de Estados Unidos enfrentando criaturas sobrenaturales."
+    },
+    {
+      "Nombre": "Gloria Goldberg",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una reportera ambiciosa, que investiga una serie de asesinatos rituales conectados a un culto misterioso."
+    },
+    {
+      "Nombre": "Vincent Lee",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un detective privado de Chinatown, especializado en casos relacionados con la magia y el folklore chino."
+    },
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Amelia Croft",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una arqueóloga intrépida, atraída por los misterios de civilizaciones antiguas y artefactos olvidados."
+    },
+    {
+      "Nombre": "Padre Michael O'Malley",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un sacerdote atormentado por su fe, que lucha contra las fuerzas demoníacas que amenazan su parroquia."
+    },
+    {
+      "Nombre": "Isabella Rossellini",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una famosa actriz de cine mudo, perseguida por una entidad maligna ligada a su última película."
+    },
+    {
+      "Nombre": "Henry Armitage",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un bibliotecario anciano y erudito, guardián de textos arcanos y conocedor de los Mitos de Cthulhu."
+    },
+    {
+      "Nombre": "Jenny Barnes",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una diletante y socialité, con una curiosidad insaciable por lo oculto y las artes oscuras."
+    },
+    {
+      "Nombre": "Jim Culver",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un músico de blues itinerante, que viaja por el sur de Estados Unidos enfrentando criaturas sobrenaturales."
+    },
+    {
+      "Nombre": "Gloria Goldberg",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una reportera ambiciosa, que investiga una serie de asesinatos rituales conectados a un culto misterioso."
+    },
+    {
+      "Nombre": "Vincent Lee",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un detective privado de Chinatown, especializado en casos relacionados con la magia y el folklore chino."
+    },
+    {
+      "Nombre": "Daisy Walker",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una joven estudiante de psicología, con un don psíquico que le permite vislumbrar eventos futuros."
+    },
+    {
+      "Nombre": "Eleanor Vance",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una artista atormentada por visiones recurrentes de una mansión siniestra. Busca respuestas a través de su arte y se adentra en lo desconocido."
+    },
+    {
+      "Nombre": "Jack Mallory",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un detective privado cínico y hastiado, perseguido por un caso sin resolver que le arrebató a su familia. Busca la verdad sin importar el costo."
+    },
+    {
+      "Nombre": "Evelyn Hawthorne",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Una bibliotecaria erudita con un vasto conocimiento de lo arcano. Atraída por los misterios de antiguos grimorios, se aventura en lo oculto en busca de conocimiento prohibido."
+    },
+    {
+      "Nombre": "Profesor Silas Cavendish",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un profesor universitario especializado en folklore y ocultismo. Escéptico pero intrigado, se ve arrastrado a investigar sucesos sobrenaturales que desafían su lógica."
+    },
+    {
+      "Nombre": "Dra. Anya Petrova",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una médico brillante con un interés en los límites de la mente humana. Fascinada por los fenómenos paranormales, busca explicaciones científicas a lo inexplicable."
+    },
+    {
+      "Nombre": "William Pierce",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un periodista tenaz y ambicioso en busca de la historia que lo catapulte a la fama. Su investigación sobre una serie de desapariciones lo lleva a enfrentarse a una verdad aterradora."
+    },
+    {
+      "Nombre": "Sargento Samuel Harding",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un ex soldado marcado por las atrocidades de la guerra. Atormentado por pesadillas y visiones, busca redención enfrentándose a los horrores que acechan en la oscuridad."
+    },
+    {
+      "Nombre": "Madame Esmeralda",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una médium dotada con la habilidad de comunicarse con los espíritus. Guiada por las voces del más allá, se adentra en el reino de lo sobrenatural para ayudar a los necesitados."
+    },
+    {
+      "Nombre": "Lord Alistair Kensington",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un explorador intrépido y adinerado con sed de aventuras. Impulsado por el descubrimiento de un antiguo artefacto, se embarca en una peligrosa expedición a lo desconocido."
+    },
+    {
+      "Nombre": "Dr. Elias Thorne",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Un científico brillante con una mente racional pero curiosa. Obsesionado con desentrañar los secretos del universo, se adentra en la investigación de fenómenos que desafían la ciencia conocida."
+    },
+    {
+      "Nombre": "Amelia Croft",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una arqueóloga intrépida, atraída por los misterios de civilizaciones antiguas y artefactos olvidados."
+    },
+    {
+      "Nombre": "Padre Michael O'Malley",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Un sacerdote atormentado por su fe, que lucha contra las fuerzas demoníacas que amenazan su parroquia."
+    },
+    {
+      "Nombre": "Isabella Rossellini",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una famosa actriz de cine mudo, perseguida por una entidad maligna ligada a su última película."
+    },
+    {
+      "Nombre": "Henry Armitage",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un bibliotecario anciano y erudito, guardián de textos arcanos y conocedor de los Mitos de Cthulhu."
+    },
+    {
+      "Nombre": "Jenny Barnes",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una diletante y socialité, con una curiosidad insaciable por lo oculto y las artes oscuras."
+    },
+    {
+      "Nombre": "Jim Culver",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Un músico de blues itinerante, que viaja por el sur de Estados Unidos enfrentando criaturas sobrenaturales."
+    },
+    {
+      "Nombre": "Gloria Goldberg",
+      "Vida": 7,
+      "Cordura": 6,
+      "Habilidad": 3,
+      "Historia": "Una reportera ambiciosa, que investiga una serie de asesinatos rituales conectados a un culto misterioso."
+    },
+    {
+      "Nombre": "Vincent Lee",
+      "Vida": 9,
+      "Cordura": 4,
+      "Habilidad": 1,
+      "Historia": "Un detective privado de Chinatown, especializado en casos relacionados con la magia y el folklore chino."
+    },
+    {
+      "Nombre": "Daisy Walker",
+      "Vida": 6,
+      "Cordura": 7,
+      "Habilidad": 4,
+      "Historia": "Una joven estudiante de psicología, con un don psíquico que le permite vislumbrar eventos futuros."
+    },
+    {
+      "Nombre": "Zoey Samaras",
+      "Vida": 8,
+      "Cordura": 5,
+      "Habilidad": 2,
+      "Historia": "Una cazadora de monstruos, que viaja por el mundo eliminando criaturas sobrenaturales."
+    }
+  ],
+ }
